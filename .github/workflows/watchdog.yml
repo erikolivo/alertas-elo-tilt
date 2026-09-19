@@ -1,0 +1,43 @@
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar heartbeat
+        run: |
+          # Obtener hora actual en UTC
+          ahora=$(date +%s)
+          # Obtener timestamp del ultimo commit que toco data/.heartbeat
+          ts=$(git log -1 --format=%ct -- data/.heartbeat || echo 0)
+          antiguedad=$(( ahora - ts ))
+          echo "Heartbeat hace $((antiguedad/60)) min."
+
+          # Obtener hora en Ecuador (UTC-5)
+          hora_ecuador=$(( (ahora - 5*3600) % 86400 ))
+          hora=$(( hora_ecuador / 3600 ))
+
+          # No re-disparar durante el hueco de madrugada (00:30 - 04:00 Ecuador)
+          if [ "$hora" -ge 0 ] && [ "$hora" -lt 4 ]; then
+            echo "Es de madrugada en Ecuador ($hora:xx), heartbeat stale es esperado."
+            exit 0
+          fi
+
+          if [ "$antiguedad" -gt 1500 ]; then
+            echo "Heartbeat stale — re-disparando vigilancia..."
+            exit 1
+          fi
+      - name: Re-disparar vigilancia
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run vigilancia.yml

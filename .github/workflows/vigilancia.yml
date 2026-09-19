@@ -1,0 +1,42 @@
+on:
+  schedule:
+    - cron: "0 9 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: vigilancia-favoritos
+  cancel-in-progress: true
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Vigilar durante ~5.5 horas (ciclo cada 5 min)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          FIN=$(( $(date +%s) + 330*60 ))
+          while [ "$(date +%s)" -lt "$FIN" ]; do
+            python vigilar.py || echo "[AVISO] vigilar.py fallo este ciclo, se reintenta en el siguiente"
+            git add -A data/
+            git diff --staged --quiet || git commit -m "Vigilancia: ciclo $(date -u +%Y-%m-%dT%H:%M)"
+            git pull --rebase --autostash || true
+            git push || true
+            sleep 300
+          done
