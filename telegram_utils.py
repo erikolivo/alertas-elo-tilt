@@ -1,5 +1,4 @@
 import os
-import math
 import requests
 
 TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
@@ -18,13 +17,16 @@ def enviar(mensaje: str):
     token = _token()
     chat_id = _chat_id()
     if not token or not chat_id:
-        print(f"[TELEGRAM] Token o chat_id no configurado. Mensaje:\n{mensaje}")
+        print(f"[TELEGRAM] Token o chat_id no configurado.")
         return
     url = TELEGRAM_API.format(token=token)
-    payload = {"chat_id": chat_id, "text": mensaje, "parse_mode": "HTML"}
+    payload = {"chat_id": chat_id, "text": mensaje}
     try:
         resp = requests.post(url, json=payload, timeout=15)
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            print(f"[TELEGRAM] HTTP {resp.status_code}: {resp.text[:200]}")
+        else:
+            print(f"[TELEGRAM] Mensaje enviado OK ({len(mensaje)} chars)")
     except Exception as e:
         print(f"[TELEGRAM] Error enviando mensaje: {e}")
 
@@ -33,11 +35,16 @@ def formatear_anuncio(partidos: list[dict]) -> list[str]:
     if not partidos:
         return []
 
+    def abs_diff_elo(p):
+        return abs(p.get("diff_elo", 0))
+
+    partidos_ordenados = sorted(partidos, key=abs_diff_elo, reverse=True)
+
     mensajes = []
-    for i in range(0, len(partidos), TANDA_MAXIMA):
-        tanda = partidos[i : i + TANDA_MAXIMA]
+    for i in range(0, len(partidos_ordenados), TANDA_MAXIMA):
+        tanda = partidos_ordenados[i : i + TANDA_MAXIMA]
         hora = tanda[0]["hora"]
-        lineas = [f"\U0001f550 Favoritos claros — partidos de {hora} a {hora}"]
+        lineas = [f"\U0001f550 Favoritos claros \u2014 partidos de {hora} a {hora}"]
         for j, p in enumerate(tanda):
             if j > 0:
                 lineas.append("")
@@ -50,7 +57,7 @@ def _formatear_partido_anuncio(p: dict) -> str:
     local = p["equipo_local"]
     visitante = p["equipo_visitante"]
     pred = p["prediccion"]
-    diff = p.get("diff_elo", 0)
+    diff = abs(p.get("diff_elo", 0))
     conf = p.get("confianza", 0)
 
     fav = _favorito(pred)
