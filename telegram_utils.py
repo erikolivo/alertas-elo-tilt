@@ -14,21 +14,23 @@ def _chat_id() -> str:
 
 
 def enviar(mensaje: str):
+    import sys
     token = _token()
     chat_id = _chat_id()
     if not token or not chat_id:
-        print(f"[TELEGRAM] Token o chat_id no configurado.")
+        print(f"[TELEGRAM] Token o chat_id no configurado.", flush=True)
         return
     url = TELEGRAM_API.format(token=token)
     payload = {"chat_id": chat_id, "text": mensaje}
     try:
-        resp = requests.post(url, json=payload, timeout=15)
+        print(f"[TELEGRAM] Enviando a chat {chat_id}... ({len(mensaje)} chars)", flush=True)
+        resp = requests.post(url, json=payload, timeout=30)
+        print(f"[TELEGRAM] Status: {resp.status_code}", flush=True)
         if resp.status_code != 200:
-            print(f"[TELEGRAM] HTTP {resp.status_code}: {resp.text[:200]}")
-        else:
-            print(f"[TELEGRAM] Mensaje enviado OK ({len(mensaje)} chars)")
+            print(f"[TELEGRAM] Respuesta: {resp.text[:300]}", flush=True)
     except Exception as e:
-        print(f"[TELEGRAM] Error enviando mensaje: {e}")
+        print(f"[TELEGRAM] Error: {type(e).__name__}: {e}", flush=True)
+        sys.stdout.flush()
 
 
 def formatear_anuncio(partidos: list[dict]) -> list[str]:

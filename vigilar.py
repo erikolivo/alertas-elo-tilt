@@ -154,28 +154,28 @@ def _procesar_cierre_ventana(
 def ciclo():
     ahora = datetime.now(tz=ZONA_ECUADOR)
     estado = ventanas.cargar_estado()
-    print(f"[CICLO] {ahora.isoformat()}")
+    print(f"[CICLO] {ahora.isoformat()}", flush=True)
 
     # PASO A — Anunciar ventana nueva
     sig = ventanas.siguiente_hora(ahora)
     clave = sig.isoformat()
     diff_min = (sig - ahora).total_seconds() / 60
-    print(f"[PASO A] Siguiente ventana: {clave} ({diff_min:.1f} min)")
+    print(f"[PASO A] Siguiente ventana: {clave} ({diff_min:.1f} min)", flush=True)
     if ventanas.debe_anunciar(ahora, clave, estado):
-        print(f"[PASO A] Anunciando ventana {clave}")
+        print(f"[PASO A] Anunciando ventana {clave}", flush=True)
         todos = obtener_favoritos.partidos_entre(sig, sig + timedelta(hours=1))
-        print(f"[PASO A] {len(todos)} partidos en ventana")
+        print(f"[PASO A] {len(todos)} partidos en ventana", flush=True)
         favoritos_claros = [p for p in todos if obtener_favoritos.es_favorito_claro_para_enviar(p)]
-        print(f"[PASO A] {len(favoritos_claros)} favoritos claros")
+        print(f"[PASO A] {len(favoritos_claros)} favoritos claros", flush=True)
 
         if favoritos_claros:
             mensajes = telegram_utils.formatear_anuncio(favoritos_claros)
-            print(f"[TELEGRAM] Enviando {len(mensajes)} mensajes de anuncio")
+            print(f"[TELEGRAM] Enviando {len(mensajes)} mensajes de anuncio", flush=True)
             for msg in mensajes:
-                print(f"[TELEGRAM] Longitud mensaje: {len(msg)}")
+                print(f"[TELEGRAM] Longitud mensaje: {len(msg)}", flush=True)
                 telegram_utils.enviar(msg)
         else:
-            print("[PASO A] Sin favoritos claros, no se envia nada")
+            print("[PASO A] Sin favoritos claros, no se envia nada", flush=True)
 
         ventanas.registrar_ventana(
             estado,
@@ -184,9 +184,9 @@ def ciclo():
             [p["fixture_id"] for p in todos],
             [p["fixture_id"] for p in favoritos_claros],
         )
-        print(f"[PASO A] Ventana registrada: {len(todos)} fixtures, {len(favoritos_claros)} alertados")
+        print(f"[PASO A] Ventana registrada: {len(todos)} fixtures, {len(favoritos_claros)} alertados", flush=True)
     else:
-        print(f"[PASO A] No toca anunciar (faltan {diff_min:.1f} min o ya existe)")
+        print(f"[PASO A] No toca anunciar (faltan {diff_min:.1f} min o ya existe)", flush=True)
 
     # PASO B — Cerrar ventanas abiertas
     for clave_ventana, ventana in list(estado["ventanas"].items()):
