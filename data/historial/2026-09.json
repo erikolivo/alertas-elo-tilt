@@ -657,6 +657,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401899613",
+      "liga_slug": "all",
+      "equipo_local": "Mantova",
+      "equipo_visitante": "Pisa",
+      "favorito_predicho": "local",
+      "margen": 56.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401843444",
+      "liga_slug": "nor.1",
+      "equipo_local": "Viking FK",
+      "equipo_visitante": "Lillestrom",
+      "favorito_predicho": "local",
+      "margen": 42.1,
+      "confianza_elo": 45.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401881785",
+      "liga_slug": "aut.1",
+      "equipo_local": "RB Salzburg",
+      "equipo_visitante": "Sturm Graz",
+      "favorito_predicho": "local",
+      "margen": 45.1,
+      "confianza_elo": 50.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
