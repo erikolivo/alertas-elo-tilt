@@ -489,6 +489,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401875595",
+      "liga_slug": "all",
+      "equipo_local": "AZ Alkmaar",
+      "equipo_visitante": "Telstar",
+      "favorito_predicho": "local",
+      "margen": 57.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880250",
+      "liga_slug": "all",
+      "equipo_local": "Norwich City",
+      "equipo_visitante": "Bolton",
+      "favorito_predicho": "local",
+      "margen": 51.1,
+      "confianza_elo": 89.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401881782",
+      "liga_slug": "aut.1",
+      "equipo_local": "SV Josko Ried",
+      "equipo_visitante": "Wolfsberger",
+      "favorito_predicho": "local",
+      "margen": 42.5,
+      "confianza_elo": 50.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
