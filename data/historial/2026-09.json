@@ -615,6 +615,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888287",
+      "liga_slug": "all",
+      "equipo_local": "Fenerbahce",
+      "equipo_visitante": "Eyupspor",
+      "favorito_predicho": "local",
+      "margen": 58.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874529",
+      "liga_slug": "den.1",
+      "equipo_local": "AC Horsens",
+      "equipo_visitante": "AGF",
+      "favorito_predicho": "local",
+      "margen": 55.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860347",
+      "liga_slug": "bra.2",
+      "equipo_local": "Ponte Preta",
+      "equipo_visitante": "CRB",
+      "favorito_predicho": "visitante",
+      "margen": 41.1,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
