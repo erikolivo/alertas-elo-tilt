@@ -391,6 +391,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "761826",
+      "liga_slug": "all",
+      "equipo_local": "Colorado",
+      "equipo_visitante": "Seattle",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876969",
+      "liga_slug": "all",
+      "equipo_local": "Monterrey",
+      "equipo_visitante": "Cruz Azul",
+      "favorito_predicho": "local",
+      "margen": 46.4,
+      "confianza_elo": 81.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886364",
+      "liga_slug": "mex.2",
+      "equipo_local": "Jaiba Brava",
+      "equipo_visitante": "Dorados",
+      "favorito_predicho": "local",
+      "margen": 53.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
