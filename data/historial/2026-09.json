@@ -1931,6 +1931,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888039",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Tulsa",
+      "equipo_visitante": "AR-Pine Bluff",
+      "favorito_predicho": "local",
+      "margen": 53.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876966",
+      "liga_slug": "all",
+      "equipo_local": "Toluca",
+      "equipo_visitante": "Santos",
+      "favorito_predicho": "local",
+      "margen": 59.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841570",
+      "liga_slug": "arg.1",
+      "equipo_local": "Vélez ",
+      "equipo_visitante": "Tigre",
+      "favorito_predicho": "local",
+      "margen": 54.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
