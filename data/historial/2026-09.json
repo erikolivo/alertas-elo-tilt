@@ -2043,6 +2043,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401921389",
+      "liga_slug": "all",
+      "equipo_local": "Manta F.C.",
+      "equipo_visitante": "Orense",
+      "favorito_predicho": "local",
+      "margen": 49.9,
+      "confianza_elo": 85.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
