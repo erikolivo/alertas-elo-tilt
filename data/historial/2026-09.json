@@ -2169,6 +2169,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401860350",
+      "liga_slug": "all",
+      "equipo_local": "Cuiabá",
+      "equipo_visitante": "Náutico",
+      "favorito_predicho": "local",
+      "margen": 41.5,
+      "confianza_elo": 50.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
