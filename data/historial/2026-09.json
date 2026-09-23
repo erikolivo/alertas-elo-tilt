@@ -2869,6 +2869,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401896293",
+      "liga_slug": "all",
+      "equipo_local": "Hamilton",
+      "equipo_visitante": "Cowdenbeath",
+      "favorito_predicho": "local",
+      "margen": 55.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401923282",
+      "liga_slug": "all",
+      "equipo_local": "Brighton",
+      "equipo_visitante": "Charlton",
+      "favorito_predicho": "local",
+      "margen": 52.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890040",
+      "liga_slug": "all",
+      "equipo_local": "Quinnipiac",
+      "equipo_visitante": "Merrimack",
+      "favorito_predicho": "local",
+      "margen": 54.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401923279",
+      "liga_slug": "all",
+      "equipo_local": "Spurs",
+      "equipo_visitante": "West Ham ",
+      "favorito_predicho": "local",
+      "margen": 57.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401923360",
+      "liga_slug": "all",
+      "equipo_local": "Everton ",
+      "equipo_visitante": "Birmingham",
+      "favorito_predicho": "local",
+      "margen": 56.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
