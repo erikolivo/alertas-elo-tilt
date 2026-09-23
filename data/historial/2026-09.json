@@ -2813,6 +2813,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877961",
+      "liga_slug": "all",
+      "equipo_local": "Santa Fe",
+      "equipo_visitante": "Cali",
+      "favorito_predicho": "local",
+      "margen": 42.3,
+      "confianza_elo": 49.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
