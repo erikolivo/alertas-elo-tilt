@@ -1241,18 +1241,18 @@
       "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 2,
-      "ultimo_intento_cierre": "2026-09-22T22:51:24.525599-05:00"
+      "intentos_cierre": 3,
+      "ultimo_intento_cierre": "2026-09-22T23:21:31.086831-05:00"
     },
     "2026-09-22T21:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-22T20:48:08.061407-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-09-22T23:21:31.086831-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-09-22T23:21:31.086831-05:00"
     },
     "2026-09-22T22:00:00-05:00": {
       "anunciada": true,
