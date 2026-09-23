@@ -2841,6 +2841,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916409",
+      "liga_slug": "all",
+      "equipo_local": "Breidablik",
+      "equipo_visitante": "Czarni",
+      "favorito_predicho": "local",
+      "margen": 43.2,
+      "confianza_elo": 52.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
