@@ -1162,10 +1162,10 @@
         "401922489"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-09-23T12:18:35.231249-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-09-23T12:48:40.957817-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-09-23T12:48:40.957817-05:00"
     },
     "2026-09-23T10:00:00-05:00": {
       "anunciada": true,
@@ -1177,8 +1177,8 @@
       "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-23T12:18:35.231249-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-09-23T12:48:40.957817-05:00"
     },
     "2026-09-23T11:00:00-05:00": {
       "anunciada": true,
@@ -1216,6 +1216,42 @@
       ],
       "favoritos_alertados": [
         "401897501"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-09-23T13:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-09-23T12:48:40.957817-05:00",
+      "fixture_ids": [
+        "401896293",
+        "401923282",
+        "401922636",
+        "401890040",
+        "401923274",
+        "401923279",
+        "401923360",
+        "401916431",
+        "401916455",
+        "401923272",
+        "401923359",
+        "401923288",
+        "401916913",
+        "401916909",
+        "401916458",
+        "401916912",
+        "401922490",
+        "401923259",
+        "401916453"
+      ],
+      "favoritos_alertados": [
+        "401896293",
+        "401923282",
+        "401890040",
+        "401923279",
+        "401923360"
       ],
       "cerrada": false,
       "cerrada_en": null,
