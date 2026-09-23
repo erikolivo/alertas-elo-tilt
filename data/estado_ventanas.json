@@ -1,36 +1,5 @@
 {
   "ventanas": {
-    "2026-09-20T08:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-20T07:45:07.005271-05:00",
-      "fixture_ids": [
-        "401884788",
-        "401879273",
-        "401915338",
-        "401902908",
-        "401879272",
-        "401876456",
-        "401899619",
-        "401902909",
-        "401899615",
-        "401879276",
-        "401874752",
-        "401902910",
-        "401874801",
-        "401921343",
-        "401902037",
-        "401902038",
-        "401902034"
-      ],
-      "favoritos_alertados": [
-        "401884788",
-        "401879273"
-      ],
-      "cerrada": true,
-      "cerrada_en": "2026-09-20T11:46:18.966779-05:00",
-      "intentos_cierre": 4,
-      "ultimo_intento_cierre": "2026-09-20T11:46:18.966779-05:00"
-    },
     "2026-09-20T09:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-20T08:49:11.735375-05:00",
@@ -1181,10 +1150,10 @@
         "401916430"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-09-23T11:18:23.438059-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-09-23T11:48:28.740782-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-09-23T11:48:28.740782-05:00"
     },
     "2026-09-23T09:00:00-05:00": {
       "anunciada": true,
@@ -1195,8 +1164,8 @@
       "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-23T11:18:23.438059-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-09-23T11:48:28.740782-05:00"
     },
     "2026-09-23T10:00:00-05:00": {
       "anunciada": true,
@@ -1229,6 +1198,25 @@
         "401842246"
       ],
       "favoritos_alertados": [],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-09-23T12:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-09-23T11:48:28.740782-05:00",
+      "fixture_ids": [
+        "401916436",
+        "401897501",
+        "401916411",
+        "401916429",
+        "401916428",
+        "401916433"
+      ],
+      "favoritos_alertados": [
+        "401897501"
+      ],
       "cerrada": false,
       "cerrada_en": null,
       "intentos_cierre": 0,
