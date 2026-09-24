@@ -3191,6 +3191,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401891059",
+      "liga_slug": "all",
+      "equipo_local": "UC San Diego",
+      "equipo_visitante": "Fullerton",
+      "favorito_predicho": "local",
+      "margen": 61.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897947",
+      "liga_slug": "all",
+      "equipo_local": "Oregon St",
+      "equipo_visitante": "Seattle U",
+      "favorito_predicho": "local",
+      "margen": 53.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879529",
+      "liga_slug": "all",
+      "equipo_local": "Xelajú MC",
+      "equipo_visitante": "Antigua",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 81.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
