@@ -3107,6 +3107,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401890014",
+      "liga_slug": "all",
+      "equipo_local": "Sacred Heart",
+      "equipo_visitante": "Saint Peter's",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897263",
+      "liga_slug": "all",
+      "equipo_local": "Presbyterian",
+      "equipo_visitante": "Gardner-Webb",
+      "favorito_predicho": "local",
+      "margen": 41.4,
+      "confianza_elo": 40.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900010",
+      "liga_slug": "all",
+      "equipo_local": "Fairfield",
+      "equipo_visitante": "Iona",
+      "favorito_predicho": "local",
+      "margen": 41.4,
+      "confianza_elo": 35.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
