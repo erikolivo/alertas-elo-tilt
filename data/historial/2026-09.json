@@ -3149,6 +3149,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877777",
+      "liga_slug": "all",
+      "equipo_local": "América Cali",
+      "equipo_visitante": "Águilas Doradas",
+      "favorito_predicho": "local",
+      "margen": 50.8,
+      "confianza_elo": 92.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
