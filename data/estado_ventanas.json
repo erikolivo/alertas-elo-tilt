@@ -971,10 +971,10 @@
       "favoritos_alertados": [
         "401920057"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-09-24T11:20:41.661086-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-09-24T11:50:50.470391-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-09-24T11:50:50.470391-05:00"
     },
     "2026-09-24T09:00:00-05:00": {
       "anunciada": true,
