@@ -3275,6 +3275,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401920056",
+      "liga_slug": "all",
+      "equipo_local": "Libya",
+      "equipo_visitante": "Botswana",
+      "favorito_predicho": "local",
+      "margen": 49.6,
+      "confianza_elo": 85.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
