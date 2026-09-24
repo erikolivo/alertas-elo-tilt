@@ -3289,6 +3289,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861044",
+      "liga_slug": "all",
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Wales",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401861046",
+      "liga_slug": "all",
+      "equipo_local": "Norway",
+      "equipo_visitante": "Denmark",
+      "favorito_predicho": "local",
+      "margen": 53.4,
+      "confianza_elo": 94.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401861045",
+      "liga_slug": "all",
+      "equipo_local": "Kosovo",
+      "equipo_visitante": "Rep Ireland",
+      "favorito_predicho": "local",
+      "margen": 48.0,
+      "confianza_elo": 76.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732413",
+      "liga_slug": "all",
+      "equipo_local": "San Marino",
+      "equipo_visitante": "Kosovo",
+      "favorito_predicho": "visitante",
+      "margen": 43.8,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732409",
+      "liga_slug": "all",
+      "equipo_local": "Belgium",
+      "equipo_visitante": "Belarus",
+      "favorito_predicho": "local",
+      "margen": 52.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
