@@ -3359,6 +3359,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901136",
+      "liga_slug": "all",
+      "equipo_local": "Robert Morris",
+      "equipo_visitante": "Purdue FW",
+      "favorito_predicho": "local",
+      "margen": 59.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920050",
+      "liga_slug": "all",
+      "equipo_local": "Ivory Coast",
+      "equipo_visitante": "Ghana",
+      "favorito_predicho": "local",
+      "margen": 58.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920053",
+      "liga_slug": "all",
+      "equipo_local": "Cameroon",
+      "equipo_visitante": "Comoros",
+      "favorito_predicho": "local",
+      "margen": 49.7,
+      "confianza_elo": 96.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920052",
+      "liga_slug": "all",
+      "equipo_local": "Tunisia",
+      "equipo_visitante": "Uganda",
+      "favorito_predicho": "local",
+      "margen": 45.4,
+      "confianza_elo": 63.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920051",
+      "liga_slug": "all",
+      "equipo_local": "Sierra Leone",
+      "equipo_visitante": "Zimbabwe",
+      "favorito_predicho": "local",
+      "margen": 43.4,
+      "confianza_elo": 58.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
