@@ -3233,6 +3233,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401905196",
+      "liga_slug": "all",
+      "equipo_local": "South Korea",
+      "equipo_visitante": "Ecuador",
+      "favorito_predicho": "local",
+      "margen": 44.7,
+      "confianza_elo": 68.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
