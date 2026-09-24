@@ -1002,6 +1002,21 @@
       "cerrada_en": null,
       "intentos_cierre": 0,
       "ultimo_intento_cierre": null
+    },
+    "2026-09-24T08:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-09-24T07:49:47.450759-05:00",
+      "fixture_ids": [
+        "401920057",
+        "401923773"
+      ],
+      "favoritos_alertados": [
+        "401920057"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
     }
   }
 }
