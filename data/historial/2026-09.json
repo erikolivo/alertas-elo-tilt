@@ -4199,6 +4199,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "732411",
+      "liga_slug": "all",
+      "equipo_local": "Switzerland",
+      "equipo_visitante": "Luxembourg",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890996",
+      "liga_slug": "all",
+      "equipo_local": "Indiana",
+      "equipo_visitante": "Penn State",
+      "favorito_predicho": "local",
+      "margen": 58.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
