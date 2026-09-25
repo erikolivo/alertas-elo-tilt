@@ -4059,6 +4059,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879564",
+      "liga_slug": "all",
+      "equipo_local": "Municipal",
+      "equipo_visitante": "Suchitepeque",
+      "favorito_predicho": "local",
+      "margen": 57.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900638",
+      "liga_slug": "all",
+      "equipo_local": "Costa Rica",
+      "equipo_visitante": "Curaçao",
+      "favorito_predicho": "local",
+      "margen": 50.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
