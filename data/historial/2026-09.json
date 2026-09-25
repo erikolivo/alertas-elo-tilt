@@ -4087,6 +4087,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401920049",
+      "liga_slug": "all",
+      "equipo_local": "Tanzania",
+      "equipo_visitante": "Guinea-Bissau",
+      "favorito_predicho": "local",
+      "margen": 51.6,
+      "confianza_elo": 94.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
