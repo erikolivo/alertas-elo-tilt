@@ -1,25 +1,5 @@
 {
   "ventanas": {
-    "2026-09-22T02:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-22T01:46:57.559184-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-22T05:50:06.254241-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-22T05:50:06.254241-05:00"
-    },
-    "2026-09-22T03:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-22T02:47:08.030331-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-22T05:50:06.254241-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-22T05:50:06.254241-05:00"
-    },
     "2026-09-22T06:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-22T05:50:06.254241-05:00",
@@ -1143,20 +1123,20 @@
       "anunciada_en": "2026-09-25T01:49:52.675286-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-09-25T07:03:26.325580-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-09-25T07:03:26.325580-05:00"
     },
     "2026-09-25T03:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-25T02:45:02.735435-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-09-25T07:03:26.325580-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-09-25T07:03:26.325580-05:00"
     },
     "2026-09-25T04:00:00-05:00": {
       "anunciada": true,
@@ -1167,8 +1147,8 @@
       "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-09-25T07:03:26.325580-05:00"
     }
   }
 }
