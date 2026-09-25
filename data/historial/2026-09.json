@@ -4101,6 +4101,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401920043",
+      "liga_slug": "all",
+      "equipo_local": "Niger",
+      "equipo_visitante": "Lesotho",
+      "favorito_predicho": "local",
+      "margen": 43.4,
+      "confianza_elo": 54.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
