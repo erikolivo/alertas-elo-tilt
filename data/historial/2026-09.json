@@ -4339,6 +4339,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401920040",
+      "liga_slug": "all",
+      "equipo_local": "Algeria",
+      "equipo_visitante": "Zambia",
+      "favorito_predicho": "local",
+      "margen": 58.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920038",
+      "liga_slug": "all",
+      "equipo_local": "Egypt",
+      "equipo_visitante": "Angola",
+      "favorito_predicho": "local",
+      "margen": 41.2,
+      "confianza_elo": 59.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920036",
+      "liga_slug": "all",
+      "equipo_local": "Morocco",
+      "equipo_visitante": "Gabon",
+      "favorito_predicho": "local",
+      "margen": 42.4,
+      "confianza_elo": 55.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920037",
+      "liga_slug": "all",
+      "equipo_local": "Burkina Faso",
+      "equipo_visitante": "Benin",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 39.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401875920",
+      "liga_slug": "all",
+      "equipo_local": "Dordrecht",
+      "equipo_visitante": "Almere City",
+      "favorito_predicho": "visitante",
+      "margen": 47.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
