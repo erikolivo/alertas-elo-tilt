@@ -4675,6 +4675,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898878",
+      "liga_slug": "all",
+      "equipo_local": "Stanford",
+      "equipo_visitante": "Virginia",
+      "favorito_predicho": "local",
+      "margen": 59.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
