@@ -4535,6 +4535,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401860356",
+      "liga_slug": "all",
+      "equipo_local": "Vila Nova",
+      "equipo_visitante": "Londrina",
+      "favorito_predicho": "local",
+      "margen": 58.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916345",
+      "liga_slug": "all",
+      "equipo_local": "Colo Colo",
+      "equipo_visitante": "Audax Italiano",
+      "favorito_predicho": "local",
+      "margen": 58.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842249",
+      "liga_slug": "all",
+      "equipo_local": "Hartford",
+      "equipo_visitante": "Louisville",
+      "favorito_predicho": "local",
+      "margen": 50.0,
+      "confianza_elo": 81.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891011",
+      "liga_slug": "all",
+      "equipo_local": "Maryland",
+      "equipo_visitante": "UCLA",
+      "favorito_predicho": "local",
+      "margen": 50.0,
+      "confianza_elo": 71.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898913",
+      "liga_slug": "all",
+      "equipo_local": "Bowling Green",
+      "equipo_visitante": "W Michigan",
+      "favorito_predicho": "local",
+      "margen": 42.5,
+      "confianza_elo": 56.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
