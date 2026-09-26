@@ -5207,6 +5207,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900197",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Army",
+      "equipo_visitante": "Lehigh",
+      "favorito_predicho": "local",
+      "margen": 53.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901612",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Oakland",
+      "equipo_visitante": "IU Indy",
+      "favorito_predicho": "local",
+      "margen": 48.0,
+      "confianza_elo": 75.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901294",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "La Salle",
+      "equipo_visitante": "Dayton",
+      "favorito_predicho": "local",
+      "margen": 45.4,
+      "confianza_elo": 59.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
