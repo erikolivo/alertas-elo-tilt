@@ -5025,6 +5025,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886806",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UMass",
+      "equipo_visitante": "Kent State",
+      "favorito_predicho": "local",
+      "margen": 61.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732421",
+      "liga_slug": "uefa.euro_u21_qual",
+      "equipo_local": "Croatia",
+      "equipo_visitante": "Hungary",
+      "favorito_predicho": "local",
+      "margen": 53.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
