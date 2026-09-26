@@ -4605,6 +4605,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401854087",
+      "liga_slug": "all",
+      "equipo_local": "Seattle",
+      "equipo_visitante": "Boston",
+      "favorito_predicho": "local",
+      "margen": 57.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401854010",
+      "liga_slug": "all",
+      "equipo_local": "Gotham",
+      "equipo_visitante": "Chicago",
+      "favorito_predicho": "local",
+      "margen": 49.7,
+      "confianza_elo": 85.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
