@@ -6677,6 +6677,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901537",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Portland",
+      "equipo_visitante": "LMU",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 95.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898987",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "San José St",
+      "equipo_visitante": "UC Davis",
+      "favorito_predicho": "local",
+      "margen": 42.4,
+      "confianza_elo": 45.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899712",
+      "liga_slug": "slv.1",
+      "equipo_local": "Isidro Metapán",
+      "equipo_visitante": "Cacahuatique",
+      "favorito_predicho": "local",
+      "margen": 48.3,
+      "confianza_elo": 83.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879562",
+      "liga_slug": "gua.1",
+      "equipo_local": "Xelajú MC",
+      "equipo_visitante": "Comunicaciones",
+      "favorito_predicho": "local",
+      "margen": 56.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761842",
+      "liga_slug": "all",
+      "equipo_local": "Vancouver",
+      "equipo_visitante": "D.C. United",
+      "favorito_predicho": "local",
+      "margen": 55.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
