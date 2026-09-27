@@ -6775,6 +6775,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916343",
+      "liga_slug": "all",
+      "equipo_local": "Antofagasta",
+      "equipo_visitante": "Dep. Iquique",
+      "favorito_predicho": "local",
+      "margen": 56.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401924590",
+      "liga_slug": "all",
+      "equipo_local": "Nea Salamis",
+      "equipo_visitante": "AEK Larnaca",
+      "favorito_predicho": "local",
+      "margen": 48.2,
+      "confianza_elo": 73.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
