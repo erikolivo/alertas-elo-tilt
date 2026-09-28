@@ -8091,6 +8091,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401844170",
+      "liga_slug": "all",
+      "equipo_local": "Gimnasia J.",
+      "equipo_visitante": "San Martín (T)",
+      "favorito_predicho": "local",
+      "margen": 51.1,
+      "confianza_elo": 78.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900620",
+      "liga_slug": "all",
+      "equipo_local": "Dominica",
+      "equipo_visitante": "Puerto Rico",
+      "favorito_predicho": "local",
+      "margen": 48.9,
+      "confianza_elo": 50.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
