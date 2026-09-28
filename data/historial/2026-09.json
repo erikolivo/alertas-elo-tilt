@@ -8147,6 +8147,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401905195",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": true,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
