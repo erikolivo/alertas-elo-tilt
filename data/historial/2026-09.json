@@ -7965,6 +7965,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898884",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401892298",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401919572",
+      "liga_slug": "all",
+      "equipo_local": "Kyrgyz Rep.",
+      "equipo_visitante": "Maldives",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 73.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
