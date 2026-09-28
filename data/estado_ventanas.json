@@ -1439,8 +1439,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 2,
-      "ultimo_intento_cierre": "2026-09-28T16:50:02.623163-05:00"
+      "intentos_cierre": 3,
+      "ultimo_intento_cierre": "2026-09-28T17:20:12.021896-05:00"
     },
     "2026-09-28T15:00:00-05:00": {
       "anunciada": true,
@@ -1452,8 +1452,8 @@
       "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-09-28T17:20:12.021896-05:00"
     },
     "2026-09-28T16:00:00-05:00": {
       "anunciada": true,
