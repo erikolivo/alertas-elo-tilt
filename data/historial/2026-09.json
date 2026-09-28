@@ -8189,6 +8189,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900616",
+      "liga_slug": "all",
+      "equipo_local": "Guadeloupe",
+      "equipo_visitante": "Barbados",
+      "favorito_predicho": "local",
+      "margen": 58.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401920030",
+      "liga_slug": "all",
+      "equipo_local": "Tunisia",
+      "equipo_visitante": "Botswana",
+      "favorito_predicho": "local",
+      "margen": 55.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
