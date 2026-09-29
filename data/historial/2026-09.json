@@ -8553,6 +8553,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401905964",
+      "liga_slug": "all",
+      "equipo_local": "San Antonio ",
+      "equipo_visitante": "Darmstadt",
+      "favorito_predicho": "local",
+      "margen": 48.9,
+      "confianza_elo": 85.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401922497",
+      "liga_slug": "all",
+      "equipo_local": "Oman",
+      "equipo_visitante": "Kuwait",
+      "favorito_predicho": "local",
+      "margen": 46.9,
+      "confianza_elo": 62.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401922498",
+      "liga_slug": "all",
+      "equipo_local": "Saudi Arabia",
+      "equipo_visitante": "Iraq",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
