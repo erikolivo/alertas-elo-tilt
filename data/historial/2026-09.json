@@ -9603,6 +9603,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401923364",
+      "liga_slug": "all",
+      "equipo_local": "C Palace",
+      "equipo_visitante": "Charlton",
+      "favorito_predicho": "local",
+      "margen": 60.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732433",
+      "liga_slug": "all",
+      "equipo_local": "Scotland",
+      "equipo_visitante": "Azerbaijan",
+      "favorito_predicho": "local",
+      "margen": 56.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
