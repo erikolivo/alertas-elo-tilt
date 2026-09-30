@@ -9421,6 +9421,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401903234",
+      "liga_slug": "all",
+      "equipo_local": "Mexico",
+      "equipo_visitante": "Peru",
+      "favorito_predicho": "local",
+      "margen": 54.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
