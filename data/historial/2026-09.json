@@ -9491,6 +9491,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916414",
+      "liga_slug": "all",
+      "equipo_local": "SK Brann",
+      "equipo_visitante": "Helsinki",
+      "favorito_predicho": "local",
+      "margen": 58.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732435",
+      "liga_slug": "all",
+      "equipo_local": "Faroe Islands",
+      "equipo_visitante": "Luxembourg",
+      "favorito_predicho": "local",
+      "margen": 56.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916407",
+      "liga_slug": "all",
+      "equipo_local": "Eintracht",
+      "equipo_visitante": "FH",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
