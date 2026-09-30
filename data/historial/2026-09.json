@@ -9631,6 +9631,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916419",
+      "liga_slug": "all",
+      "equipo_local": "Torreense",
+      "equipo_visitante": "Metalist",
+      "favorito_predicho": "local",
+      "margen": 53.6,
+      "confianza_elo": 87.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732430",
+      "liga_slug": "all",
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Gibraltar",
+      "favorito_predicho": "local",
+      "margen": 57.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
