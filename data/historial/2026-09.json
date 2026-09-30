@@ -9449,6 +9449,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401922307",
+      "liga_slug": "all",
+      "equipo_local": "Fiji",
+      "equipo_visitante": "New Caledonia",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 80.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
