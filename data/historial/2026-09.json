@@ -9463,6 +9463,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401917065",
+      "liga_slug": "all",
+      "equipo_local": "Seychelles",
+      "equipo_visitante": "Sri Lanka",
+      "favorito_predicho": "visitante",
+      "margen": 41.4,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926873",
+      "liga_slug": "all",
+      "equipo_local": "Ethiopia",
+      "equipo_visitante": "Seychelles",
+      "favorito_predicho": "local",
+      "margen": 53.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
