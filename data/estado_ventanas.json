@@ -1,18 +1,5 @@
 {
   "ventanas": {
-    "2026-09-26T23:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-26T22:46:44.878291-05:00",
-      "fixture_ids": [
-        "401922310",
-        "401924630"
-      ],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-27T02:48:03.597222-05:00",
-      "intentos_cierre": 4,
-      "ultimo_intento_cierre": "2026-09-27T02:48:03.597222-05:00"
-    },
     "2026-09-27T01:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-27T00:47:33.305884-05:00",
@@ -1074,6 +1061,18 @@
       "favoritos_alertados": [
         "401922307"
       ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-09-30T03:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-09-30T02:48:15.866745-05:00",
+      "fixture_ids": [
+        "401924263"
+      ],
+      "favoritos_alertados": [],
       "cerrada": false,
       "cerrada_en": null,
       "intentos_cierre": 0,
