@@ -111,6 +111,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861093",
+      "liga_slug": "all",
+      "equipo_local": "Azerbaijan",
+      "equipo_visitante": "Liechtenstein",
+      "favorito_predicho": "local",
+      "margen": 50.2,
+      "confianza_elo": 47.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401917004",
+      "liga_slug": "all",
+      "equipo_local": "Vienna",
+      "equipo_visitante": "Inter Milan",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 43.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401917003",
+      "liga_slug": "all",
+      "equipo_local": "HB Køge",
+      "equipo_visitante": "Servette",
+      "favorito_predicho": "local",
+      "margen": 51.1,
+      "confianza_elo": 96.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
