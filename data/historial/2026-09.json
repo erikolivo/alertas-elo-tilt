@@ -9841,6 +9841,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401921545",
+      "liga_slug": "all",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Bolivia",
+      "favorito_predicho": "local",
+      "margen": 50.6,
+      "confianza_elo": 49.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901550",
+      "liga_slug": "all",
+      "equipo_local": "Portland",
+      "equipo_visitante": "Saint Mary's",
+      "favorito_predicho": "local",
+      "margen": 48.8,
+      "confianza_elo": 84.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
