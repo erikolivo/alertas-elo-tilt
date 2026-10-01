@@ -153,6 +153,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "732439",
+      "liga_slug": "all",
+      "equipo_local": "Hungary",
+      "equipo_visitante": "Lithuania",
+      "favorito_predicho": "local",
+      "margen": 42.9,
+      "confianza_elo": 71.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898847",
+      "liga_slug": "all",
+      "equipo_local": "Le Moyne",
+      "equipo_visitante": "New Haven",
+      "favorito_predicho": "local",
+      "margen": 59.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898857",
+      "liga_slug": "all",
+      "equipo_local": "Mercyhurst",
+      "equipo_visitante": "Long Island",
+      "favorito_predicho": "local",
+      "margen": 60.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
