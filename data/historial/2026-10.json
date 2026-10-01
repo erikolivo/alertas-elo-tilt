@@ -279,6 +279,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401917001",
+      "liga_slug": "all",
+      "equipo_local": "PSG",
+      "equipo_visitante": "OH Leuven",
+      "favorito_predicho": "local",
+      "margen": 41.8,
+      "confianza_elo": 55.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900071",
+      "liga_slug": "all",
+      "equipo_local": "Stonehill",
+      "equipo_visitante": "Le Moyne",
+      "favorito_predicho": "local",
+      "margen": 46.3,
+      "confianza_elo": 77.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
