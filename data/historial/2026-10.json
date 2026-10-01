@@ -307,6 +307,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886757",
+      "liga_slug": "all",
+      "equipo_local": "Ohio",
+      "equipo_visitante": "C Michigan",
+      "favorito_predicho": "local",
+      "margen": 45.6,
+      "confianza_elo": 67.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887976",
+      "liga_slug": "all",
+      "equipo_local": "Temple",
+      "equipo_visitante": "East Carolina",
+      "favorito_predicho": "local",
+      "margen": 53.2,
+      "confianza_elo": 98.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889490",
+      "liga_slug": "all",
+      "equipo_local": "VMI",
+      "equipo_visitante": "Chattanooga",
+      "favorito_predicho": "visitante",
+      "margen": 47.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
