@@ -1,35 +1,5 @@
 {
   "ventanas": {
-    "2026-09-28T02:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-28T01:45:01.720402-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-28T05:03:27.007284-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-28T05:03:27.007284-05:00"
-    },
-    "2026-09-28T03:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-28T02:45:12.792662-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-28T05:18:30.670093-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-28T05:18:30.670093-05:00"
-    },
-    "2026-09-28T04:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-09-28T03:45:22.249805-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-09-28T06:18:43.700692-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-09-28T06:18:43.700692-05:00"
-    },
     "2026-09-28T06:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-09-28T05:48:36.807518-05:00",
@@ -967,20 +937,20 @@
       "anunciada_en": "2026-10-01T02:46:11.325371-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-10-01T09:41:04.149461-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-10-01T09:41:04.149461-05:00"
     },
     "2026-10-01T04:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-10-01T03:46:23.029358-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-10-01T09:41:04.149461-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-10-01T09:41:04.149461-05:00"
     }
   }
 }
