@@ -559,6 +559,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401927898",
+      "liga_slug": "club.friendly",
+      "equipo_local": "Dijon FCO",
+      "equipo_visitante": "Troyes",
+      "favorito_predicho": "local",
+      "margen": 51.8,
+      "confianza_elo": 82.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401927871",
+      "liga_slug": "club.friendly",
+      "equipo_local": "Guingamp",
+      "equipo_visitante": "Le Mans",
+      "favorito_predicho": "local",
+      "margen": 43.5,
+      "confianza_elo": 65.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
