@@ -517,6 +517,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900344",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Washington St",
+      "equipo_visitante": "Oregon St",
+      "favorito_predicho": "local",
+      "margen": 50.1,
+      "confianza_elo": 71.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
