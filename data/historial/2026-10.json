@@ -587,6 +587,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861103",
+      "liga_slug": "all",
+      "equipo_local": "France",
+      "equipo_visitante": "Italy",
+      "favorito_predicho": "local",
+      "margen": 49.8,
+      "confianza_elo": 66.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401861108",
+      "liga_slug": "all",
+      "equipo_local": "Poland",
+      "equipo_visitante": "Romania",
+      "favorito_predicho": "local",
+      "margen": 43.0,
+      "confianza_elo": 34.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401907805",
+      "liga_slug": "bol.copa",
+      "equipo_local": "Bulo Bulo",
+      "equipo_visitante": "ABB",
+      "favorito_predicho": "local",
+      "margen": 49.5,
+      "confianza_elo": 69.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887555",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Villanova",
+      "equipo_visitante": "UConn",
+      "favorito_predicho": "local",
+      "margen": 55.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
