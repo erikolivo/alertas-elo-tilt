@@ -461,6 +461,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401860365",
+      "liga_slug": "all",
+      "equipo_local": "Novorizontino",
+      "equipo_visitante": "Goiás",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 84.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889664",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Hou Christian",
+      "equipo_visitante": "SF Austin",
+      "favorito_predicho": "local",
+      "margen": 54.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898571",
+      "liga_slug": "all",
+      "equipo_local": "Lindenwood",
+      "equipo_visitante": "Incarnate Word",
+      "favorito_predicho": "local",
+      "margen": 44.7,
+      "confianza_elo": 59.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889681",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Incarnate Word",
+      "equipo_visitante": "N'Western St",
+      "favorito_predicho": "local",
+      "margen": 54.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
