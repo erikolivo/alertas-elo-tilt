@@ -349,6 +349,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900119",
+      "liga_slug": "all",
+      "equipo_local": "FDU",
+      "equipo_visitante": "Chicago St",
+      "favorito_predicho": "local",
+      "margen": 58.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897190",
+      "liga_slug": "all",
+      "equipo_local": "Southern Utah",
+      "equipo_visitante": "Montana",
+      "favorito_predicho": "local",
+      "margen": 41.7,
+      "confianza_elo": 46.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401907908",
+      "liga_slug": "all",
+      "equipo_local": "Bolívar",
+      "equipo_visitante": "GV San José",
+      "favorito_predicho": "local",
+      "margen": 61.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889652",
+      "liga_slug": "all",
+      "equipo_local": "E Washington",
+      "equipo_visitante": "Idaho St",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
