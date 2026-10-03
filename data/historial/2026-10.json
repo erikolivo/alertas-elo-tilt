@@ -1959,6 +1959,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916228",
+      "liga_slug": "all",
+      "equipo_local": "Tunisia",
+      "equipo_visitante": "Mali",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888031",
+      "liga_slug": "all",
+      "equipo_local": "Paris FC",
+      "equipo_visitante": "Lens",
+      "favorito_predicho": "local",
+      "margen": 55.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842184",
+      "liga_slug": "all",
+      "equipo_local": "Boise",
+      "equipo_visitante": "Greenville",
+      "favorito_predicho": "local",
+      "margen": 56.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860368",
+      "liga_slug": "bra.2",
+      "equipo_local": "Atlético-GO",
+      "equipo_visitante": "América-MG",
+      "favorito_predicho": "local",
+      "margen": 59.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401884075",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Boston College",
+      "equipo_visitante": "North Carolina",
+      "favorito_predicho": "local",
+      "margen": 54.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
