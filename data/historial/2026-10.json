@@ -1091,6 +1091,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886355",
+      "liga_slug": "all",
+      "equipo_local": "Correcaminos",
+      "equipo_visitante": "CA Hidalgo",
+      "favorito_predicho": "local",
+      "margen": 41.1,
+      "confianza_elo": 46.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891445",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Portland",
+      "equipo_visitante": "Pacific",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900943",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UTEP",
+      "equipo_visitante": "Air Force",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 80.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
