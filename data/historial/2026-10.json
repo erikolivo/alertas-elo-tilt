@@ -1217,6 +1217,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401924546",
+      "liga_slug": "club.friendly",
+      "equipo_local": "Dunfermline",
+      "equipo_visitante": "Aberdeen",
+      "favorito_predicho": "local",
+      "margen": 45.5,
+      "confianza_elo": 63.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926502",
+      "liga_slug": "club.friendly",
+      "equipo_local": "Lazio",
+      "equipo_visitante": "Juve Stabia",
+      "favorito_predicho": "local",
+      "margen": 53.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
