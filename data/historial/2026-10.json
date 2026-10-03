@@ -1511,6 +1511,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401917862",
+      "liga_slug": "all",
+      "equipo_local": "Russia",
+      "equipo_visitante": "Namibia",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928179",
+      "liga_slug": "club.friendly",
+      "equipo_local": "Montpellier",
+      "equipo_visitante": "Marseille",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
