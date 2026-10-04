@@ -3443,6 +3443,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900587",
+      "liga_slug": "all",
+      "equipo_local": "Turks and Caicos",
+      "equipo_visitante": "Br Virgin Isl",
+      "favorito_predicho": "local",
+      "margen": 43.7,
+      "confianza_elo": 32.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401844185",
+      "liga_slug": "all",
+      "equipo_local": "San Martín SJ",
+      "equipo_visitante": "Almagro ",
+      "favorito_predicho": "local",
+      "margen": 58.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889653",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "E Washington",
+      "equipo_visitante": "Weber St",
+      "favorito_predicho": "local",
+      "margen": 41.1,
+      "confianza_elo": 48.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
