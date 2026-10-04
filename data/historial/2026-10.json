@@ -2267,6 +2267,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898430",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Army",
+      "equipo_visitante": "Lafayette",
+      "favorito_predicho": "local",
+      "margen": 46.0,
+      "confianza_elo": 77.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898219",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Fairfield",
+      "equipo_visitante": "Manhattan",
+      "favorito_predicho": "local",
+      "margen": 59.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887627",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UNC Wilmington",
+      "equipo_visitante": "Elon",
+      "favorito_predicho": "local",
+      "margen": 46.9,
+      "confianza_elo": 78.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401854018",
+      "liga_slug": "all",
+      "equipo_local": "Kansas City",
+      "equipo_visitante": "Bay",
+      "favorito_predicho": "local",
+      "margen": 59.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898232",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Marist",
+      "equipo_visitante": "Iona",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
