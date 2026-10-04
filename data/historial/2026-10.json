@@ -2785,6 +2785,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861120",
+      "liga_slug": "all",
+      "equipo_local": "Malta",
+      "equipo_visitante": "Andorra",
+      "favorito_predicho": "local",
+      "margen": 45.8,
+      "confianza_elo": 36.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401927915",
+      "liga_slug": "all",
+      "equipo_local": "Zenit",
+      "equipo_visitante": "BATE",
+      "favorito_predicho": "local",
+      "margen": 54.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883162",
+      "liga_slug": "all",
+      "equipo_local": "Castellón",
+      "equipo_visitante": "Ceuta",
+      "favorito_predicho": "local",
+      "margen": 60.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900133",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Long Island",
+      "equipo_visitante": "Chicago St",
+      "favorito_predicho": "local",
+      "margen": 47.0,
+      "confianza_elo": 36.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
