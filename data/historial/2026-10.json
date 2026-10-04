@@ -2729,6 +2729,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401902897",
+      "liga_slug": "all",
+      "equipo_local": "Brighton",
+      "equipo_visitante": "Charlton",
+      "favorito_predicho": "local",
+      "margen": 55.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401902896",
+      "liga_slug": "all",
+      "equipo_local": "Everton ",
+      "equipo_visitante": "Birmingham",
+      "favorito_predicho": "local",
+      "margen": 55.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
