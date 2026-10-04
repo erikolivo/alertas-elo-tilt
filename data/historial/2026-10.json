@@ -2603,6 +2603,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401842170",
+      "liga_slug": "all",
+      "equipo_local": "Spokane",
+      "equipo_visitante": "Portland",
+      "favorito_predicho": "local",
+      "margen": 57.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886352",
+      "liga_slug": "all",
+      "equipo_local": "Morelia",
+      "equipo_visitante": "Tlaxcala",
+      "favorito_predicho": "local",
+      "margen": 48.2,
+      "confianza_elo": 88.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897435",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UC San Diego",
+      "equipo_visitante": "Cal Poly",
+      "favorito_predicho": "local",
+      "margen": 46.1,
+      "confianza_elo": 59.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
