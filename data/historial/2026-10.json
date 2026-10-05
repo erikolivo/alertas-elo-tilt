@@ -3513,6 +3513,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900583",
+      "liga_slug": "all",
+      "equipo_local": "Puerto Rico",
+      "equipo_visitante": "Cayman Isl",
+      "favorito_predicho": "local",
+      "margen": 56.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
