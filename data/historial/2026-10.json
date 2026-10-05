@@ -3485,6 +3485,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401878629",
+      "liga_slug": "all",
+      "equipo_local": "Tampa Bay",
+      "equipo_visitante": "Lexington",
+      "favorito_predicho": "local",
+      "margen": 43.3,
+      "confianza_elo": 60.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401844188",
+      "liga_slug": "all",
+      "equipo_local": "Godoy Cruz",
+      "equipo_visitante": "Los Andes ",
+      "favorito_predicho": "local",
+      "margen": 57.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
