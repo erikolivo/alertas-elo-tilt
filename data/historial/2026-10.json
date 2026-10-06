@@ -3695,6 +3695,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401917360",
+      "liga_slug": "all",
+      "equipo_local": "Russia",
+      "equipo_visitante": "Nigeria",
+      "favorito_predicho": "local",
+      "margen": 71.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401758361",
+      "liga_slug": "all",
+      "equipo_local": "Germany",
+      "equipo_visitante": "Georgia",
+      "favorito_predicho": "local",
+      "margen": 58.4,
+      "confianza_elo": 81.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732451",
+      "liga_slug": "all",
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Czechia",
+      "favorito_predicho": "local",
+      "margen": 54.8,
+      "confianza_elo": 95.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732450",
+      "liga_slug": "all",
+      "equipo_local": "Netherlands",
+      "equipo_visitante": "Bosnia-Herz",
+      "favorito_predicho": "local",
+      "margen": 60.0,
+      "confianza_elo": 79.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "732497",
+      "liga_slug": "all",
+      "equipo_local": "Norway",
+      "equipo_visitante": "Israel",
+      "favorito_predicho": "local",
+      "margen": 61.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
