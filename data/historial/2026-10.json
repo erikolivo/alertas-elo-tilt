@@ -4465,6 +4465,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901573",
+      "liga_slug": "all",
+      "equipo_local": "N Illinois",
+      "equipo_visitante": "Detroit Mercy",
+      "favorito_predicho": "local",
+      "margen": 56.8,
+      "confianza_elo": 86.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890000",
+      "liga_slug": "all",
+      "equipo_local": "Siena",
+      "equipo_visitante": "Canisius",
+      "favorito_predicho": "local",
+      "margen": 47.8,
+      "confianza_elo": 64.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886600",
+      "liga_slug": "all",
+      "equipo_local": "Villanova",
+      "equipo_visitante": "Xavier",
+      "favorito_predicho": "local",
+      "margen": 44.8,
+      "confianza_elo": 49.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
