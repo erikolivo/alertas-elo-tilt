@@ -4423,6 +4423,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901604",
+      "liga_slug": "all",
+      "equipo_local": "Oakland",
+      "equipo_visitante": "Green Bay",
+      "favorito_predicho": "local",
+      "margen": 48.6,
+      "confianza_elo": 63.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
