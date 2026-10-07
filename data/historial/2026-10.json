@@ -4381,6 +4381,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916333",
+      "liga_slug": "all",
+      "equipo_local": "Jordan",
+      "equipo_visitante": "Armenia",
+      "favorito_predicho": "local",
+      "margen": 43.0,
+      "confianza_elo": 43.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
