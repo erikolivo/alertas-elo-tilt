@@ -949,10 +949,10 @@
         "401925167"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-08T11:40:31.148296-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-08T12:10:39.709261-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-08T12:10:39.709261-05:00"
     },
     "2026-10-08T08:00:00-05:00": {
       "anunciada": true,
