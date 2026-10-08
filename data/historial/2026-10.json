@@ -4871,6 +4871,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900275",
+      "liga_slug": "all",
+      "equipo_local": "Alcorn St",
+      "equipo_visitante": "AR-Pine Bluff",
+      "favorito_predicho": "local",
+      "margen": 63.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901503",
+      "liga_slug": "all",
+      "equipo_local": "E Kentucky",
+      "equipo_visitante": "C Arkansas",
+      "favorito_predicho": "local",
+      "margen": 66.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886170",
+      "liga_slug": "all",
+      "equipo_local": "Atlético Grau",
+      "equipo_visitante": "Los Chankas",
+      "favorito_predicho": "local",
+      "margen": 78.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
