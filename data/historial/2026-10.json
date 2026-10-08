@@ -4843,6 +4843,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886173",
+      "liga_slug": "all",
+      "equipo_local": "Moquegua",
+      "equipo_visitante": "Cienciano",
+      "favorito_predicho": "local",
+      "margen": 42.0,
+      "confianza_elo": 49.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
