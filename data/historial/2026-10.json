@@ -4731,6 +4731,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401891081",
+      "liga_slug": "all",
+      "equipo_local": "UC Irvine",
+      "equipo_visitante": "CSU Northridge",
+      "favorito_predicho": "local",
+      "margen": 59.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891415",
+      "liga_slug": "all",
+      "equipo_local": "Denver",
+      "equipo_visitante": "Pepperdine",
+      "favorito_predicho": "visitante",
+      "margen": 48.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900973",
+      "liga_slug": "all",
+      "equipo_local": "Hawai'i",
+      "equipo_visitante": "Nevada",
+      "favorito_predicho": "local",
+      "margen": 70.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
