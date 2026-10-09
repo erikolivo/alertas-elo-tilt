@@ -5347,6 +5347,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886981",
+      "liga_slug": "all",
+      "equipo_local": "Colorado",
+      "equipo_visitante": "Baylor",
+      "favorito_predicho": "visitante",
+      "margen": 54.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900345",
+      "liga_slug": "all",
+      "equipo_local": "Oregon State",
+      "equipo_visitante": "San Diego St",
+      "favorito_predicho": "visitante",
+      "margen": 48.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897249",
+      "liga_slug": "all",
+      "equipo_local": "Weber St",
+      "equipo_visitante": "Utah Tech",
+      "favorito_predicho": "local",
+      "margen": 48.2,
+      "confianza_elo": 73.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877887",
+      "liga_slug": "all",
+      "equipo_local": "Fortaleza",
+      "equipo_visitante": "Millonarios",
+      "favorito_predicho": "visitante",
+      "margen": 40.7,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
