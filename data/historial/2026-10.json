@@ -4941,6 +4941,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401892376",
+      "liga_slug": "all",
+      "equipo_local": "William & Mary",
+      "equipo_visitante": "Howard",
+      "favorito_predicho": "local",
+      "margen": 52.8,
+      "confianza_elo": 81.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887399",
+      "liga_slug": "all",
+      "equipo_local": "Monmouth",
+      "equipo_visitante": "Campbell",
+      "favorito_predicho": "local",
+      "margen": 63.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889946",
+      "liga_slug": "all",
+      "equipo_local": "St Bonaventure",
+      "equipo_visitante": "Loyola Chicago",
+      "favorito_predicho": "visitante",
+      "margen": 50.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887655",
+      "liga_slug": "all",
+      "equipo_local": "Stony Brook",
+      "equipo_visitante": "Hampton",
+      "favorito_predicho": "local",
+      "margen": 71.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891396",
+      "liga_slug": "all",
+      "equipo_local": "Troy",
+      "equipo_visitante": "Louisiana Tech",
+      "favorito_predicho": "local",
+      "margen": 41.7,
+      "confianza_elo": 37.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
