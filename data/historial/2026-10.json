@@ -5473,6 +5473,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401878159",
+      "liga_slug": "all",
+      "equipo_local": "Albania",
+      "equipo_visitante": "Wales",
+      "favorito_predicho": "local",
+      "margen": 41.0,
+      "confianza_elo": 36.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401878172",
+      "liga_slug": "all",
+      "equipo_local": "Lithuania",
+      "equipo_visitante": "Sweden",
+      "favorito_predicho": "visitante",
+      "margen": 48.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401878170",
+      "liga_slug": "all",
+      "equipo_local": "Greece",
+      "equipo_visitante": "England",
+      "favorito_predicho": "local",
+      "margen": 51.5,
+      "confianza_elo": 75.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885094",
+      "liga_slug": "all",
+      "equipo_local": "E Braunschweig",
+      "equipo_visitante": "Holstein Kiel",
+      "favorito_predicho": "visitante",
+      "margen": 41.2,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401878169",
+      "liga_slug": "all",
+      "equipo_local": "Croatia",
+      "equipo_visitante": "Iceland",
+      "favorito_predicho": "local",
+      "margen": 42.1,
+      "confianza_elo": 39.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
