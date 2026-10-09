@@ -5823,6 +5823,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916334",
+      "liga_slug": "all",
+      "equipo_local": "Peru",
+      "equipo_visitante": "Philippines",
+      "favorito_predicho": "local",
+      "margen": 62.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401927439",
+      "liga_slug": "all",
+      "equipo_local": "MC Torque",
+      "equipo_visitante": "Danubio",
+      "favorito_predicho": "local",
+      "margen": 70.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
