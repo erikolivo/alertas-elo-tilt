@@ -4913,6 +4913,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900120",
+      "liga_slug": "all",
+      "equipo_local": "Delaware St",
+      "equipo_visitante": "FDU",
+      "favorito_predicho": "visitante",
+      "margen": 71.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890296",
+      "liga_slug": "all",
+      "equipo_local": "GA Southern",
+      "equipo_visitante": "App State",
+      "favorito_predicho": "local",
+      "margen": 49.1,
+      "confianza_elo": 74.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
