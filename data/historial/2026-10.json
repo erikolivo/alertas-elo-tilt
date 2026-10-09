@@ -5403,6 +5403,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886964",
+      "liga_slug": "all",
+      "equipo_local": "Arizona St",
+      "equipo_visitante": "Iowa State",
+      "favorito_predicho": "local",
+      "margen": 71.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890389",
+      "liga_slug": "all",
+      "equipo_local": "Fresno St",
+      "equipo_visitante": "Boise St",
+      "favorito_predicho": "visitante",
+      "margen": 65.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889654",
+      "liga_slug": "all",
+      "equipo_local": "N Arizona",
+      "equipo_visitante": "E Washington",
+      "favorito_predicho": "local",
+      "margen": 44.3,
+      "confianza_elo": 32.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883688",
+      "liga_slug": "all",
+      "equipo_local": "UCLA",
+      "equipo_visitante": "Indiana",
+      "favorito_predicho": "local",
+      "margen": 76.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883651",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "USC",
+      "equipo_visitante": "Illinois",
+      "favorito_predicho": "visitante",
+      "margen": 54.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
