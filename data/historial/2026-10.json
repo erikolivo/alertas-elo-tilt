@@ -5543,6 +5543,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401917872",
+      "liga_slug": "all",
+      "equipo_local": "Malta",
+      "equipo_visitante": "Luxembourg",
+      "favorito_predicho": "local",
+      "margen": 48.4,
+      "confianza_elo": 63.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874089",
+      "liga_slug": "all",
+      "equipo_local": "Göteborg",
+      "equipo_visitante": "Västerås",
+      "favorito_predicho": "local",
+      "margen": 42.5,
+      "confianza_elo": 38.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874517",
+      "liga_slug": "all",
+      "equipo_local": "Nordsjælland",
+      "equipo_visitante": "Odense",
+      "favorito_predicho": "local",
+      "margen": 61.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841612",
+      "liga_slug": "all",
+      "equipo_local": "Aldosivi",
+      "equipo_visitante": "Sarmiento (J)",
+      "favorito_predicho": "visitante",
+      "margen": 48.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
