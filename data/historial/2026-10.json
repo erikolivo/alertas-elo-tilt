@@ -6131,6 +6131,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888283",
+      "liga_slug": "all",
+      "equipo_local": "Alanyaspor",
+      "equipo_visitante": "Erzurum",
+      "favorito_predicho": "local",
+      "margen": 57.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899605",
+      "liga_slug": "ita.2",
+      "equipo_local": "Empoli",
+      "equipo_visitante": "Palermo",
+      "favorito_predicho": "visitante",
+      "margen": 47.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
