@@ -1,21 +1,5 @@
 {
   "ventanas": {
-    "2026-10-07T13:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-10-07T12:45:05.452539-05:00",
-      "fixture_ids": [
-        "401901604",
-        "401902113",
-        "401914265"
-      ],
-      "favoritos_alertados": [
-        "401901604"
-      ],
-      "cerrada": true,
-      "cerrada_en": "2026-10-07T16:45:40.226221-05:00",
-      "intentos_cierre": 4,
-      "ultimo_intento_cierre": "2026-10-07T16:45:40.226221-05:00"
-    },
     "2026-10-07T14:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-10-07T13:45:22.106176-05:00",
@@ -1287,10 +1271,10 @@
         "401878973",
         "401878974"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-10T16:18:49.320184-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-10T16:49:01.719356-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-10T16:49:01.719356-05:00"
     },
     "2026-10-10T14:00:00-05:00": {
       "anunciada": true,
@@ -1329,8 +1313,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-10T16:18:49.320184-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-10T16:49:01.719356-05:00"
     },
     "2026-10-10T15:00:00-05:00": {
       "anunciada": true,
@@ -1393,6 +1377,37 @@
         "401891447",
         "401921381",
         "401927437"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-10-10T17:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-10-10T16:49:01.719356-05:00",
+      "fixture_ids": [
+        "401878626",
+        "401842286",
+        "401887407",
+        "401901574",
+        "401899041",
+        "401898257",
+        "401892255",
+        "401887557",
+        "401889785",
+        "401891431",
+        "401901142",
+        "401903440",
+        "401841599",
+        "401888586",
+        "401898995"
+      ],
+      "favoritos_alertados": [
+        "401899041",
+        "401901142",
+        "401903440",
+        "401898995"
       ],
       "cerrada": false,
       "cerrada_en": null,
