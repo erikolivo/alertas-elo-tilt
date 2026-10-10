@@ -5851,6 +5851,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841609",
+      "liga_slug": "all",
+      "equipo_local": "Gimnasia LP",
+      "equipo_visitante": "Atl Tucumán",
+      "favorito_predicho": "local",
+      "margen": 52.0,
+      "confianza_elo": 73.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
