@@ -6103,6 +6103,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886178",
+      "liga_slug": "all",
+      "equipo_local": "Garcilaso",
+      "equipo_visitante": "Huancayo",
+      "favorito_predicho": "local",
+      "margen": 59.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
