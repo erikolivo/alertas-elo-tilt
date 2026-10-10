@@ -6075,6 +6075,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901473",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Mississippi St",
+      "equipo_visitante": "Texas A&M",
+      "favorito_predicho": "local",
+      "margen": 45.0,
+      "confianza_elo": 41.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841613",
+      "liga_slug": "all",
+      "equipo_local": "Unión (SF)",
+      "equipo_visitante": "Def. y Jus.",
+      "favorito_predicho": "visitante",
+      "margen": 50.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
