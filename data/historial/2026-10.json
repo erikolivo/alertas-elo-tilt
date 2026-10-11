@@ -7363,6 +7363,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401899041",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "ETSU",
+      "equipo_visitante": "Liberty",
+      "favorito_predicho": "local",
+      "margen": 45.5,
+      "confianza_elo": 59.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901142",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Youngstown St",
+      "equipo_visitante": "Wright St",
+      "favorito_predicho": "local",
+      "margen": 47.8,
+      "confianza_elo": 36.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401903440",
+      "liga_slug": "ven.1",
+      "equipo_local": "Táchira",
+      "equipo_visitante": "UCV FC",
+      "favorito_predicho": "local",
+      "margen": 61.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898995",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Utah Tech",
+      "equipo_visitante": "UNLV",
+      "favorito_predicho": "visitante",
+      "margen": 68.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
