@@ -1409,10 +1409,10 @@
         "401899602",
         "401884778"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-11T13:24:01.188896-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-11T13:56:50.759924-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-11T13:56:50.759924-05:00"
     },
     "2026-10-11T11:00:00-05:00": {
       "anunciada": true,

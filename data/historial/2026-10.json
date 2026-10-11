@@ -8119,6 +8119,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401843457",
+      "liga_slug": "all",
+      "equipo_local": "Aalesund",
+      "equipo_visitante": "Sarpsborg FK",
+      "favorito_predicho": "local",
+      "margen": 59.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401843458",
+      "liga_slug": "all",
+      "equipo_local": "IK Start",
+      "equipo_visitante": "Hamarkameratene",
+      "favorito_predicho": "local",
+      "margen": 65.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899602",
+      "liga_slug": "all",
+      "equipo_local": "Padova",
+      "equipo_visitante": "Carrarese",
+      "favorito_predicho": "local",
+      "margen": 60.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401884778",
+      "liga_slug": "all",
+      "equipo_local": "Freiburg",
+      "equipo_visitante": "Schalke",
+      "favorito_predicho": "local",
+      "margen": 59.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401850665",
+      "liga_slug": "chi.1",
+      "equipo_local": "Everton CD",
+      "equipo_visitante": "La Serena",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 42.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
