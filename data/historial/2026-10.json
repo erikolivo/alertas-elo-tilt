@@ -7769,6 +7769,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841259",
+      "liga_slug": "bra.1",
+      "equipo_local": "São Paulo",
+      "equipo_visitante": "Vitória",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 98.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886179",
+      "liga_slug": "per.1",
+      "equipo_local": "Universitario",
+      "equipo_visitante": "Melgar",
+      "favorito_predicho": "local",
+      "margen": 62.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891125",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Utah Valley",
+      "equipo_visitante": "Sacramento St",
+      "favorito_predicho": "local",
+      "margen": 76.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898816",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Wisconsin",
+      "equipo_visitante": "Rutgers",
+      "favorito_predicho": "local",
+      "margen": 61.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841603",
+      "liga_slug": "arg.1",
+      "equipo_local": "River Plate",
+      "equipo_visitante": "Estudiantes RC",
+      "favorito_predicho": "local",
+      "margen": 73.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }

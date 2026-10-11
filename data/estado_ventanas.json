@@ -1,26 +1,5 @@
 {
   "ventanas": {
-    "2026-10-07T19:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-10-07T18:45:13.270096-05:00",
-      "fixture_ids": [
-        "401899006",
-        "401900956",
-        "401842190",
-        "401841249",
-        "401907902",
-        "401907900"
-      ],
-      "favoritos_alertados": [
-        "401899006",
-        "401841249",
-        "401907900"
-      ],
-      "cerrada": true,
-      "cerrada_en": "2026-10-07T22:46:07.958199-05:00",
-      "intentos_cierre": 4,
-      "ultimo_intento_cierre": "2026-10-07T22:46:07.958199-05:00"
-    },
     "2026-10-07T20:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-10-07T19:45:25.297289-05:00",
@@ -1403,10 +1382,10 @@
         "401898816",
         "401841603"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-10T22:20:13.752287-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-10T22:50:28.321129-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-10T22:50:28.321129-05:00"
     },
     "2026-10-10T20:00:00-05:00": {
       "anunciada": true,
@@ -1440,8 +1419,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-10T22:20:13.752287-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-10T22:50:28.321129-05:00"
     },
     "2026-10-10T21:00:00-05:00": {
       "anunciada": true,
