@@ -9589,6 +9589,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401844197",
+      "liga_slug": "all",
+      "equipo_local": "Racing (Córdoba)",
+      "equipo_visitante": "Los Andes ",
+      "favorito_predicho": "local",
+      "margen": 54.4,
+      "confianza_elo": 87.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401850662",
+      "liga_slug": "all",
+      "equipo_local": "U de Chile",
+      "equipo_visitante": "Ñublense",
+      "favorito_predicho": "local",
+      "margen": 61.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888585",
+      "liga_slug": "all",
+      "equipo_local": "2 de Mayo",
+      "equipo_visitante": "Ameliano",
+      "favorito_predicho": "local",
+      "margen": 54.4,
+      "confianza_elo": 85.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
