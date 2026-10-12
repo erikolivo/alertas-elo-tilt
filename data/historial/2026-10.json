@@ -9519,6 +9519,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877915",
+      "liga_slug": "col.1",
+      "equipo_local": "América Cali",
+      "equipo_visitante": "Ind. Medellín",
+      "favorito_predicho": "local",
+      "margen": 62.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
