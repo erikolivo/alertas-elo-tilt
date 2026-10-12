@@ -9533,6 +9533,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929556",
+      "liga_slug": "all",
+      "equipo_local": "Morocco",
+      "equipo_visitante": "Uzbekistan",
+      "favorito_predicho": "local",
+      "margen": 48.1,
+      "confianza_elo": 34.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
