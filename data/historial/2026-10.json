@@ -9337,6 +9337,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401890732",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Akron",
+      "equipo_visitante": "Creighton",
+      "favorito_predicho": "local",
+      "margen": 45.0,
+      "confianza_elo": 56.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900652",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Charlotte",
+      "equipo_visitante": "South Florida",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891903",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "NC State",
+      "equipo_visitante": "Kansas City",
+      "favorito_predicho": "visitante",
+      "margen": 58.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841266",
+      "liga_slug": "bra.1",
+      "equipo_local": "Bahia",
+      "equipo_visitante": "Mirassol",
+      "favorito_predicho": "local",
+      "margen": 54.8,
+      "confianza_elo": 88.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
