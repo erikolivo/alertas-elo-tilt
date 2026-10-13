@@ -10275,6 +10275,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928126",
+      "liga_slug": "all",
+      "equipo_local": "Chile",
+      "equipo_visitante": "Bolivia",
+      "favorito_predicho": "local",
+      "margen": 52.9,
+      "confianza_elo": 44.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898105",
+      "liga_slug": "all",
+      "equipo_local": "Dartmouth",
+      "equipo_visitante": "UMass",
+      "favorito_predicho": "local",
+      "margen": 46.9,
+      "confianza_elo": 55.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
