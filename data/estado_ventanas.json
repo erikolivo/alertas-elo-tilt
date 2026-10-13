@@ -1432,10 +1432,10 @@
       "anunciada_en": "2026-10-13T00:46:24.175563-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-10-13T03:16:57.118794-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-10-13T03:16:57.118794-05:00"
     },
     "2026-10-13T02:00:00-05:00": {
       "anunciada": true,
