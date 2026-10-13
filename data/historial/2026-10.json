@@ -9701,6 +9701,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401878157",
+      "liga_slug": "all",
+      "equipo_local": "Ukraine",
+      "equipo_visitante": "Slovakia",
+      "favorito_predicho": "local",
+      "margen": 42.9,
+      "confianza_elo": 18.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
