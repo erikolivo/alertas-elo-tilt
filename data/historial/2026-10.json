@@ -9631,6 +9631,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401860383",
+      "liga_slug": "all",
+      "equipo_local": "Novorizontino",
+      "equipo_visitante": "Ponte Preta",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888656",
+      "liga_slug": "all",
+      "equipo_local": "Nacional",
+      "equipo_visitante": "Dep. Recoleta",
+      "favorito_predicho": "local",
+      "margen": 64.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860387",
+      "liga_slug": "all",
+      "equipo_local": "Criciúma",
+      "equipo_visitante": "América-MG",
+      "favorito_predicho": "local",
+      "margen": 61.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
