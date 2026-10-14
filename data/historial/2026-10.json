@@ -10429,6 +10429,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401913958",
+      "liga_slug": "all",
+      "equipo_local": "Boca ",
+      "equipo_visitante": "Vasco",
+      "favorito_predicho": "local",
+      "margen": 52.4,
+      "confianza_elo": 79.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401914138",
+      "liga_slug": "all",
+      "equipo_local": "Panama",
+      "equipo_visitante": "New Zealand",
+      "favorito_predicho": "local",
+      "margen": 42.1,
+      "confianza_elo": 45.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
