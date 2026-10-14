@@ -10387,6 +10387,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898080",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Columbia",
+      "equipo_visitante": "Holy Cross",
+      "favorito_predicho": "local",
+      "margen": 70.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891027",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Michigan St",
+      "equipo_visitante": "Michigan",
+      "favorito_predicho": "local",
+      "margen": 70.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877951",
+      "liga_slug": "all",
+      "equipo_local": "Bucaramanga",
+      "equipo_visitante": "Águilas Doradas",
+      "favorito_predicho": "local",
+      "margen": 44.1,
+      "confianza_elo": 45.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
