@@ -10457,6 +10457,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877892",
+      "liga_slug": "all",
+      "equipo_local": "Millonarios",
+      "equipo_visitante": "Once Caldas",
+      "favorito_predicho": "local",
+      "margen": 50.9,
+      "confianza_elo": 78.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
