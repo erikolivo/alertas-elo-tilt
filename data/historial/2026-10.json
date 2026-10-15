@@ -10905,6 +10905,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900904",
+      "liga_slug": "all",
+      "equipo_local": "Al Hazem",
+      "equipo_visitante": "Al Fateh",
+      "favorito_predicho": "local",
+      "margen": 61.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }

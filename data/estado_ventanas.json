@@ -1002,10 +1002,10 @@
       "favoritos_alertados": [
         "401900904"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-15T13:21:28.809286-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-15T13:51:42.203762-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-15T13:51:42.203762-05:00"
     },
     "2026-10-15T11:00:00-05:00": {
       "anunciada": true,
@@ -1046,8 +1046,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-15T13:21:28.809286-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-15T13:51:42.203762-05:00"
     },
     "2026-10-15T12:00:00-05:00": {
       "anunciada": true,
