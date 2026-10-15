@@ -11059,6 +11059,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879577",
+      "liga_slug": "all",
+      "equipo_local": "Xelajú MC",
+      "equipo_visitante": "Malacateco",
+      "favorito_predicho": "local",
+      "margen": 40.0,
+      "confianza_elo": 29.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901031",
+      "liga_slug": "all",
+      "equipo_local": "Drake",
+      "equipo_visitante": "Murray St",
+      "favorito_predicho": "local",
+      "margen": 65.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885540",
+      "liga_slug": "all",
+      "equipo_local": "West Florida",
+      "equipo_visitante": "Jacksonville",
+      "favorito_predicho": "local",
+      "margen": 63.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
