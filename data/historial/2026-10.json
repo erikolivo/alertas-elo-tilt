@@ -10583,6 +10583,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898234",
+      "liga_slug": "all",
+      "equipo_local": "Merrimack",
+      "equipo_visitante": "Iona",
+      "favorito_predicho": "local",
+      "margen": 50.2,
+      "confianza_elo": 64.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898267",
+      "liga_slug": "all",
+      "equipo_local": "Rider",
+      "equipo_visitante": "Mount St Marys",
+      "favorito_predicho": "local",
+      "margen": 41.4,
+      "confianza_elo": 37.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761865",
+      "liga_slug": "all",
+      "equipo_local": "Columbus",
+      "equipo_visitante": "Charlotte",
+      "favorito_predicho": "visitante",
+      "margen": 64.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761861",
+      "liga_slug": "all",
+      "equipo_local": "Miami",
+      "equipo_visitante": "NYCFC",
+      "favorito_predicho": "local",
+      "margen": 45.9,
+      "confianza_elo": 47.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877844",
+      "liga_slug": "all",
+      "equipo_local": "Santa Fe",
+      "equipo_visitante": "Jaguares",
+      "favorito_predicho": "local",
+      "margen": 54.3,
+      "confianza_elo": 83.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
