@@ -10653,6 +10653,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "761869",
+      "liga_slug": "all",
+      "equipo_local": "Chicago",
+      "equipo_visitante": "Philadelphia",
+      "favorito_predicho": "local",
+      "margen": 48.4,
+      "confianza_elo": 71.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761867",
+      "liga_slug": "all",
+      "equipo_local": "Dallas",
+      "equipo_visitante": "Seattle",
+      "favorito_predicho": "local",
+      "margen": 47.4,
+      "confianza_elo": 69.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761866",
+      "liga_slug": "all",
+      "equipo_local": "Nashville",
+      "equipo_visitante": "Kansas City",
+      "favorito_predicho": "local",
+      "margen": 69.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761868",
+      "liga_slug": "all",
+      "equipo_local": "St. Louis",
+      "equipo_visitante": "Vancouver",
+      "favorito_predicho": "local",
+      "margen": 46.4,
+      "confianza_elo": 59.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
