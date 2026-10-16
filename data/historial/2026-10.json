@@ -12095,6 +12095,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886860",
+      "liga_slug": "all",
+      "equipo_local": "West Virginia",
+      "equipo_visitante": "UCF",
+      "favorito_predicho": "local",
+      "margen": 52.8,
+      "confianza_elo": 72.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
