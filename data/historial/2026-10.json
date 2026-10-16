@@ -11801,6 +11801,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401899778",
+      "liga_slug": "all",
+      "equipo_local": "Luis Ángel Firpo",
+      "equipo_visitante": "Inca Aruba",
+      "favorito_predicho": "local",
+      "margen": 62.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897202",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Utah Tech",
+      "equipo_visitante": "N Colorado",
+      "favorito_predicho": "local",
+      "margen": 46.6,
+      "confianza_elo": 48.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900958",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UTEP",
+      "equipo_visitante": "Colorado College",
+      "favorito_predicho": "local",
+      "margen": 55.9,
+      "confianza_elo": 98.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926752",
+      "liga_slug": "all",
+      "equipo_local": "Olimpia",
+      "equipo_visitante": "Real España",
+      "favorito_predicho": "local",
+      "margen": 44.6,
+      "confianza_elo": 55.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901009",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Wyoming",
+      "equipo_visitante": "New Mexico",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 85.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
