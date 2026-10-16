@@ -11871,6 +11871,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900965",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Grand Canyon",
+      "equipo_visitante": "Nevada",
+      "favorito_predicho": "local",
+      "margen": 54.6,
+      "confianza_elo": 96.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900975",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "San José St",
+      "equipo_visitante": "Hawai'i",
+      "favorito_predicho": "visitante",
+      "margen": 67.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
