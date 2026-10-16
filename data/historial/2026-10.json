@@ -11913,6 +11913,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401885084",
+      "liga_slug": "all",
+      "equipo_local": "Cottbus",
+      "equipo_visitante": "1. FC Nürnberg",
+      "favorito_predicho": "visitante",
+      "margen": 51.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885087",
+      "liga_slug": "all",
+      "equipo_local": "Holstein Kiel",
+      "equipo_visitante": "Hertha",
+      "favorito_predicho": "visitante",
+      "margen": 51.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
