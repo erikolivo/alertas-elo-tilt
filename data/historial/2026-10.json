@@ -11941,6 +11941,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874728",
+      "liga_slug": "all",
+      "equipo_local": "AC Horsens",
+      "equipo_visitante": "Randers",
+      "favorito_predicho": "local",
+      "margen": 59.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889852",
+      "liga_slug": "all",
+      "equipo_local": "Abilene Chrstn",
+      "equipo_visitante": "West Georgia",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401881771",
+      "liga_slug": "all",
+      "equipo_local": "Rapid Vienna",
+      "equipo_visitante": "TSV Hartberg",
+      "favorito_predicho": "local",
+      "margen": 66.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401922301",
+      "liga_slug": "all",
+      "equipo_local": "AZ Alkmaar",
+      "equipo_visitante": "FC Utrecht",
+      "favorito_predicho": "local",
+      "margen": 73.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
