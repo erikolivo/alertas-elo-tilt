@@ -12599,6 +12599,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401892161",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401913254",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401913253",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877600",
+      "liga_slug": "",
+      "equipo_local": "?",
+      "equipo_visitante": "?",
+      "favorito_predicho": "?",
+      "margen": 0,
+      "confianza_elo": 0,
+      "enviada": false,
+      "resultado_categoria": "pospuesto",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
