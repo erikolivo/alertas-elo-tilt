@@ -13481,6 +13481,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401875579",
+      "liga_slug": "all",
+      "equipo_local": "Sparta",
+      "equipo_visitante": "Willem II",
+      "favorito_predicho": "local",
+      "margen": 45.1,
+      "confianza_elo": 50.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929258",
+      "liga_slug": "uru.1",
+      "equipo_local": "Boston River",
+      "equipo_visitante": "Defensor",
+      "favorito_predicho": "local",
+      "margen": 52.8,
+      "confianza_elo": 75.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899086",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "VMI",
+      "equipo_visitante": "UNC Greensboro",
+      "favorito_predicho": "visitante",
+      "margen": 49.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891432",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Pepperdine",
+      "equipo_visitante": "LMU",
+      "favorito_predicho": "local",
+      "margen": 73.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401844211",
+      "liga_slug": "arg.2",
+      "equipo_local": "T. Suárez",
+      "equipo_visitante": "Patronato",
+      "favorito_predicho": "local",
+      "margen": 57.3,
+      "confianza_elo": 99.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
