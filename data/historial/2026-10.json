@@ -12109,6 +12109,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401887782",
+      "liga_slug": "all",
+      "equipo_local": "Georgetown",
+      "equipo_visitante": "Seton Hall",
+      "favorito_predicho": "local",
+      "margen": 69.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890298",
+      "liga_slug": "all",
+      "equipo_local": "Arkansas St",
+      "equipo_visitante": "App State",
+      "favorito_predicho": "visitante",
+      "margen": 53.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }

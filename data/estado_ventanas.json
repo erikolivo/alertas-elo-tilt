@@ -1,17 +1,5 @@
 {
   "ventanas": {
-    "2026-10-13T16:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-10-13T15:46:50.827707-05:00",
-      "fixture_ids": [
-        "401917264"
-      ],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-10-13T19:48:15.932062-05:00",
-      "intentos_cierre": 4,
-      "ultimo_intento_cierre": "2026-10-13T19:48:15.932062-05:00"
-    },
     "2026-10-13T17:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-10-13T16:47:17.205330-05:00",
@@ -1112,10 +1100,10 @@
         "401887782",
         "401890298"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-16T19:18:51.107459-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-16T19:48:59.878092-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-16T19:48:59.878092-05:00"
     },
     "2026-10-16T17:00:00-05:00": {
       "anunciada": true,
@@ -1139,8 +1127,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-16T19:18:51.107459-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-16T19:48:59.878092-05:00"
     },
     "2026-10-16T18:00:00-05:00": {
       "anunciada": true,
@@ -1203,6 +1191,29 @@
         "401886983",
         "401890406",
         "401841627"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-10-16T20:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-10-16T19:48:59.878092-05:00",
+      "fixture_ids": [
+        "401876946",
+        "401886342",
+        "401844218",
+        "401899716",
+        "401901148",
+        "401883758",
+        "401889755",
+        "401886884"
+      ],
+      "favoritos_alertados": [
+        "401886342",
+        "401899716",
+        "401886884"
       ],
       "cerrada": false,
       "cerrada_en": null,
