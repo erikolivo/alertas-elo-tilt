@@ -15637,6 +15637,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401924357",
+      "liga_slug": "all",
+      "equipo_local": "Atl. San Luis",
+      "equipo_visitante": "Juárez",
+      "favorito_predicho": "local",
+      "margen": 63.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877840",
+      "liga_slug": "col.1",
+      "equipo_local": "Llaneros FC",
+      "equipo_visitante": "Santa Fe",
+      "favorito_predicho": "visitante",
+      "margen": 48.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886167",
+      "liga_slug": "per.1",
+      "equipo_local": "Cienciano",
+      "equipo_visitante": "UTC",
+      "favorito_predicho": "local",
+      "margen": 52.2,
+      "confianza_elo": 67.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
