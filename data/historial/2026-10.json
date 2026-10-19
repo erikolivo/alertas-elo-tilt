@@ -15595,6 +15595,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401885792",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Auburn",
+      "equipo_visitante": "Mississippi St",
+      "favorito_predicho": "local",
+      "margen": 50.2,
+      "confianza_elo": 71.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885543",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "North Florida",
+      "equipo_visitante": "Jacksonville",
+      "favorito_predicho": "local",
+      "margen": 65.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888579",
+      "liga_slug": "par.1",
+      "equipo_local": "Luqueño",
+      "equipo_visitante": "San Lorenzo",
+      "favorito_predicho": "local",
+      "margen": 43.9,
+      "confianza_elo": 56.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
