@@ -15749,6 +15749,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401891034",
+      "liga_slug": "all",
+      "equipo_local": "Kenya",
+      "equipo_visitante": "China PR",
+      "favorito_predicho": "local",
+      "margen": 42.2,
+      "confianza_elo": 40.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874058",
+      "liga_slug": "all",
+      "equipo_local": "Spain",
+      "equipo_visitante": "Mexico",
+      "favorito_predicho": "local",
+      "margen": 67.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
