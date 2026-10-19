@@ -1586,10 +1586,10 @@
       "favoritos_alertados": [
         "401921337"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-19T18:25:12.355404-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-19T18:55:21.169402-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-19T18:55:21.169402-05:00"
     },
     "2026-10-19T16:00:00-05:00": {
       "anunciada": true,

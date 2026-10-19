@@ -15861,6 +15861,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401921337",
+      "liga_slug": "all",
+      "equipo_local": "Mushuc Runa",
+      "equipo_visitante": "Orense",
+      "favorito_predicho": "local",
+      "margen": 51.7,
+      "confianza_elo": 74.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
