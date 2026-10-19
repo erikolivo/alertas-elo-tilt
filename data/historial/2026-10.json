@@ -15693,6 +15693,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876938",
+      "liga_slug": "all",
+      "equipo_local": "Monterrey",
+      "equipo_visitante": "Pachuca",
+      "favorito_predicho": "local",
+      "margen": 65.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401924393",
+      "liga_slug": "all",
+      "equipo_local": "América",
+      "equipo_visitante": "Pachuca",
+      "favorito_predicho": "local",
+      "margen": 76.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
