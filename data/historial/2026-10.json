@@ -15791,6 +15791,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900896",
+      "liga_slug": "all",
+      "equipo_local": "Al Hilal",
+      "equipo_visitante": "Al Hazem",
+      "favorito_predicho": "local",
+      "margen": 78.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874118",
+      "liga_slug": "all",
+      "equipo_local": "United States",
+      "equipo_visitante": "Samoa",
+      "favorito_predicho": "local",
+      "margen": 77.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401875886",
+      "liga_slug": "all",
+      "equipo_local": "Jong Utrecht",
+      "equipo_visitante": "Roda JC",
+      "favorito_predicho": "visitante",
+      "margen": 43.7,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401875885",
+      "liga_slug": "all",
+      "equipo_local": "Jong PSV",
+      "equipo_visitante": "Dordrecht",
+      "favorito_predicho": "local",
+      "margen": 55.8,
+      "confianza_elo": 89.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876719",
+      "liga_slug": "all",
+      "equipo_local": "Rodez Aveyron",
+      "equipo_visitante": "Montpellier",
+      "favorito_predicho": "visitante",
+      "margen": 40.9,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
