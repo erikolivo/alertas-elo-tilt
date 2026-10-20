@@ -15889,6 +15889,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841272",
+      "liga_slug": "all",
+      "equipo_local": "Corinthians",
+      "equipo_visitante": "Vitória",
+      "favorito_predicho": "local",
+      "margen": 41.0,
+      "confianza_elo": 38.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929257",
+      "liga_slug": "all",
+      "equipo_local": "Nacional",
+      "equipo_visitante": "Maldonado",
+      "favorito_predicho": "local",
+      "margen": 62.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900170",
+      "liga_slug": "all",
+      "equipo_local": "Northwestern",
+      "equipo_visitante": "UCLA",
+      "favorito_predicho": "visitante",
+      "margen": 40.5,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
