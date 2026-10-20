@@ -15945,6 +15945,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874122",
+      "liga_slug": "all",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "New Zealand",
+      "favorito_predicho": "local",
+      "margen": 58.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900894",
+      "liga_slug": "all",
+      "equipo_local": "Al Taawoun",
+      "equipo_visitante": "Al Qadsiah",
+      "favorito_predicho": "visitante",
+      "margen": 59.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
