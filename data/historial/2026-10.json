@@ -16659,6 +16659,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879586",
+      "liga_slug": "all",
+      "equipo_local": "Malacateco",
+      "equipo_visitante": "Comunicaciones",
+      "favorito_predicho": "local",
+      "margen": 42.2,
+      "confianza_elo": 33.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401914215",
+      "liga_slug": "all",
+      "equipo_local": "Young Africans",
+      "equipo_visitante": "CFFA",
+      "favorito_predicho": "local",
+      "margen": 56.6,
+      "confianza_elo": 94.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915395",
+      "liga_slug": "all",
+      "equipo_local": "Como",
+      "equipo_visitante": "Man United",
+      "favorito_predicho": "local",
+      "margen": 44.7,
+      "confianza_elo": 37.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
