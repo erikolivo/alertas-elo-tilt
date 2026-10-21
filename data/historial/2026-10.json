@@ -16589,6 +16589,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876936",
+      "liga_slug": "all",
+      "equipo_local": "Juárez",
+      "equipo_visitante": "Atlante",
+      "favorito_predicho": "local",
+      "margen": 56.0,
+      "confianza_elo": 98.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877892",
+      "liga_slug": "all",
+      "equipo_local": "Millonarios",
+      "equipo_visitante": "Once Caldas",
+      "favorito_predicho": "local",
+      "margen": 55.2,
+      "confianza_elo": 92.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
