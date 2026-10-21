@@ -1350,10 +1350,10 @@
         "401860397",
         "401887733"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-20T20:20:26.709136-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-20T20:50:38.205199-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-20T20:50:38.205199-05:00"
     },
     "2026-10-20T18:00:00-05:00": {
       "anunciada": true,
@@ -1390,8 +1390,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-20T20:20:26.709136-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-20T20:50:38.205199-05:00"
     },
     "2026-10-20T19:00:00-05:00": {
       "anunciada": true,

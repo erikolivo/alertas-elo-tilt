@@ -16337,6 +16337,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401891724",
+      "liga_slug": "all",
+      "equipo_local": "Campbell",
+      "equipo_visitante": "Gardner-Webb",
+      "favorito_predicho": "visitante",
+      "margen": 68.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899053",
+      "liga_slug": "all",
+      "equipo_local": "Furman",
+      "equipo_visitante": "SC Upstate",
+      "favorito_predicho": "local",
+      "margen": 64.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898832",
+      "liga_slug": "all",
+      "equipo_local": "Wisconsin",
+      "equipo_visitante": "Evansville",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860397",
+      "liga_slug": "all",
+      "equipo_local": "Londrina",
+      "equipo_visitante": "Cuiabá",
+      "favorito_predicho": "visitante",
+      "margen": 47.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887733",
+      "liga_slug": "all",
+      "equipo_local": "Xavier",
+      "equipo_visitante": "N Kentucky",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
