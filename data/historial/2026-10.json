@@ -16561,6 +16561,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898938",
+      "liga_slug": "all",
+      "equipo_local": "Omaha",
+      "equipo_visitante": "Drake",
+      "favorito_predicho": "local",
+      "margen": 65.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876934",
+      "liga_slug": "all",
+      "equipo_local": "Guadalajara",
+      "equipo_visitante": "Necaxa",
+      "favorito_predicho": "local",
+      "margen": 65.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
