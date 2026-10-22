@@ -16827,6 +16827,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876932",
+      "liga_slug": "all",
+      "equipo_local": "Atlas",
+      "equipo_visitante": "América",
+      "favorito_predicho": "visitante",
+      "margen": 57.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876931",
+      "liga_slug": "all",
+      "equipo_local": "Toluca",
+      "equipo_visitante": "Tijuana",
+      "favorito_predicho": "local",
+      "margen": 64.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891141",
+      "liga_slug": "all",
+      "equipo_local": "UC Irvine",
+      "equipo_visitante": "Cal Poly",
+      "favorito_predicho": "local",
+      "margen": 60.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897449",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Fullerton",
+      "equipo_visitante": "Bakersfield",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877844",
+      "liga_slug": "all",
+      "equipo_local": "Santa Fe",
+      "equipo_visitante": "Jaguares",
+      "favorito_predicho": "local",
+      "margen": 48.8,
+      "confianza_elo": 60.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
