@@ -17163,6 +17163,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874125",
+      "liga_slug": "all",
+      "equipo_local": "Chile",
+      "equipo_visitante": "Mexico",
+      "favorito_predicho": "local",
+      "margen": 65.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890782",
+      "liga_slug": "all",
+      "equipo_local": "United States",
+      "equipo_visitante": "Kenya",
+      "favorito_predicho": "local",
+      "margen": 69.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897204",
+      "liga_slug": "all",
+      "equipo_local": "N Colorado",
+      "equipo_visitante": "Portland St",
+      "favorito_predicho": "local",
+      "margen": 56.2,
+      "confianza_elo": 80.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900892",
+      "liga_slug": "all",
+      "equipo_local": "Al Ahli",
+      "equipo_visitante": "Al Khaleej",
+      "favorito_predicho": "local",
+      "margen": 57.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
