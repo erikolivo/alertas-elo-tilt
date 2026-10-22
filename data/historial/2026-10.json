@@ -17345,6 +17345,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900257",
+      "liga_slug": "all",
+      "equipo_local": "Alabama A&M",
+      "equipo_visitante": "Prairie View",
+      "favorito_predicho": "local",
+      "margen": 64.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887247",
+      "liga_slug": "all",
+      "equipo_local": "Binghamton",
+      "equipo_visitante": "NJIT",
+      "favorito_predicho": "local",
+      "margen": 63.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900277",
+      "liga_slug": "all",
+      "equipo_local": "Jackson St",
+      "equipo_visitante": "Alcorn St",
+      "favorito_predicho": "local",
+      "margen": 49.5,
+      "confianza_elo": 67.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889967",
+      "liga_slug": "all",
+      "equipo_local": "Richmond",
+      "equipo_visitante": "VCU",
+      "favorito_predicho": "local",
+      "margen": 68.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
