@@ -16897,6 +16897,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401891128",
+      "liga_slug": "all",
+      "equipo_local": "Oregon State",
+      "equipo_visitante": "Sacramento St",
+      "favorito_predicho": "local",
+      "margen": 68.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901729",
+      "liga_slug": "all",
+      "equipo_local": "San Diego",
+      "equipo_visitante": "Santa Clara",
+      "favorito_predicho": "local",
+      "margen": 62.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891214",
+      "liga_slug": "all",
+      "equipo_local": "San Diego St",
+      "equipo_visitante": "Utah Valley",
+      "favorito_predicho": "visitante",
+      "margen": 40.4,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897486",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "CA Baptist",
+      "equipo_visitante": "UC Irvine",
+      "favorito_predicho": "local",
+      "margen": 69.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401897474",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UC Riverside",
+      "equipo_visitante": "CSU Northridge",
+      "favorito_predicho": "local",
+      "margen": 46.2,
+      "confianza_elo": 70.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
