@@ -16995,6 +16995,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874121",
+      "liga_slug": "all",
+      "equipo_local": "China PR",
+      "equipo_visitante": "Samoa",
+      "favorito_predicho": "local",
+      "margen": 65.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874054",
+      "liga_slug": "all",
+      "equipo_local": "Spain",
+      "equipo_visitante": "Australia",
+      "favorito_predicho": "local",
+      "margen": 55.9,
+      "confianza_elo": 68.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
