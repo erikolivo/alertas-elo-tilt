@@ -17947,6 +17947,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900890",
+      "liga_slug": "all",
+      "equipo_local": "Al Ittihad",
+      "equipo_visitante": "Al Diriyah",
+      "favorito_predicho": "local",
+      "margen": 58.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
