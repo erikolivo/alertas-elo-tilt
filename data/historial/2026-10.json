@@ -17891,6 +17891,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877877",
+      "liga_slug": "all",
+      "equipo_local": "Atl. Nacional",
+      "equipo_visitante": "Pasto",
+      "favorito_predicho": "local",
+      "margen": 71.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401922485",
+      "liga_slug": "all",
+      "equipo_local": "Motagua",
+      "equipo_visitante": "Alajuelense",
+      "favorito_predicho": "local",
+      "margen": 51.2,
+      "confianza_elo": 57.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
