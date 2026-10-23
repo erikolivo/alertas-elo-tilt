@@ -17961,6 +17961,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401842851",
+      "liga_slug": "all",
+      "equipo_local": "Elfsborg",
+      "equipo_visitante": "Malmö",
+      "favorito_predicho": "local",
+      "margen": 45.2,
+      "confianza_elo": 49.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842852",
+      "liga_slug": "all",
+      "equipo_local": "Västerås",
+      "equipo_visitante": "Halmstads",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 86.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401882483",
+      "liga_slug": "all",
+      "equipo_local": "Atlético Madrid",
+      "equipo_visitante": "Valencia",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
