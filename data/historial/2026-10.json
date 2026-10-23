@@ -18269,6 +18269,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886161",
+      "liga_slug": "all",
+      "equipo_local": "Atlético Grau",
+      "equipo_visitante": "ADT",
+      "favorito_predicho": "local",
+      "margen": 70.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401921330",
+      "liga_slug": "all",
+      "equipo_local": "Ind. del Valle",
+      "equipo_visitante": "U. Católica",
+      "favorito_predicho": "local",
+      "margen": 62.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
