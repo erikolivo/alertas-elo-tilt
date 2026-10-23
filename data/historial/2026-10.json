@@ -17443,6 +17443,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401897670",
+      "liga_slug": "all",
+      "equipo_local": "Cleveland St",
+      "equipo_visitante": "Green Bay",
+      "favorito_predicho": "visitante",
+      "margen": 67.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883773",
+      "liga_slug": "all",
+      "equipo_local": "Michigan St",
+      "equipo_visitante": "Penn State",
+      "favorito_predicho": "local",
+      "margen": 41.3,
+      "confianza_elo": 27.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887349",
+      "liga_slug": "all",
+      "equipo_local": "UMass Lowell",
+      "equipo_visitante": "New Hampshire",
+      "favorito_predicho": "local",
+      "margen": 46.7,
+      "confianza_elo": 43.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887307",
+      "liga_slug": "all",
+      "equipo_local": "Vermont",
+      "equipo_visitante": "UAlbany",
+      "favorito_predicho": "local",
+      "margen": 45.6,
+      "confianza_elo": 48.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
