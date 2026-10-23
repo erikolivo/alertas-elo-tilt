@@ -1044,10 +1044,10 @@
         "401914219"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-23T12:20:15.125787-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-23T12:50:23.632576-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-23T12:50:23.632576-05:00"
     },
     "2026-10-23T10:00:00-05:00": {
       "anunciada": true,
@@ -1062,8 +1062,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-23T12:20:15.125787-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-10-23T12:50:23.632576-05:00"
     },
     "2026-10-23T11:00:00-05:00": {
       "anunciada": true,
