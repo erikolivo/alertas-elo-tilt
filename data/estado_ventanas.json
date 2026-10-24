@@ -1100,10 +1100,10 @@
         "401842853",
         "401885699"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-24T11:22:24.244435-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-24T11:52:39.253732-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-24T11:52:39.253732-05:00"
     },
     "2026-10-24T09:00:00-05:00": {
       "anunciada": true,
