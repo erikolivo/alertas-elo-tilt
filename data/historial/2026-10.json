@@ -19179,6 +19179,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401881764",
+      "liga_slug": "aut.1",
+      "equipo_local": "TSV Hartberg",
+      "equipo_visitante": "Wolfsberger",
+      "favorito_predicho": "local",
+      "margen": 68.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874129",
+      "liga_slug": "fifa.wworld.u17",
+      "equipo_local": "Brazil",
+      "equipo_visitante": "Norway",
+      "favorito_predicho": "local",
+      "margen": 44.3,
+      "confianza_elo": 30.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890054",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Niagara",
+      "equipo_visitante": "Merrimack",
+      "favorito_predicho": "local",
+      "margen": 78.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842850",
+      "liga_slug": "swe.1",
+      "equipo_local": "Djurgården",
+      "equipo_visitante": "Örgryte",
+      "favorito_predicho": "local",
+      "margen": 75.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
