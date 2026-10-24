@@ -18605,6 +18605,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898990",
+      "liga_slug": "all",
+      "equipo_local": "UC Davis",
+      "equipo_visitante": "Utah Tech",
+      "favorito_predicho": "local",
+      "margen": 50.5,
+      "confianza_elo": 73.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
