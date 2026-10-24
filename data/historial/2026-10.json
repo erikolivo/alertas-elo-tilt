@@ -18661,6 +18661,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876716",
+      "liga_slug": "fra.2",
+      "equipo_local": "Dijon FCO",
+      "equipo_visitante": "Rodez Aveyron",
+      "favorito_predicho": "local",
+      "margen": 49.0,
+      "confianza_elo": 56.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
