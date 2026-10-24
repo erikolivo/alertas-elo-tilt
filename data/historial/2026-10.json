@@ -18297,6 +18297,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401889495",
+      "liga_slug": "all",
+      "equipo_local": "Chattanooga",
+      "equipo_visitante": "UNC Greensboro",
+      "favorito_predicho": "local",
+      "margen": 45.8,
+      "confianza_elo": 56.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841637",
+      "liga_slug": "all",
+      "equipo_local": "Gimnasia (M)",
+      "equipo_visitante": "Platense",
+      "favorito_predicho": "local",
+      "margen": 45.2,
+      "confianza_elo": 46.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
