@@ -19977,6 +19977,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841631",
+      "liga_slug": "arg.1",
+      "equipo_local": "Talleres ",
+      "equipo_visitante": "Def. y Jus.",
+      "favorito_predicho": "visitante",
+      "margen": 56.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888576",
+      "liga_slug": "par.1",
+      "equipo_local": "Nacional",
+      "equipo_visitante": "Trinidense",
+      "favorito_predicho": "local",
+      "margen": 60.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891418",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "San Francisco",
+      "equipo_visitante": "Denver",
+      "favorito_predicho": "local",
+      "margen": 42.0,
+      "confianza_elo": 39.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
