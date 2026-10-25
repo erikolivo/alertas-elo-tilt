@@ -20775,6 +20775,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900967",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Hawai'i",
+      "equipo_visitante": "Grand Canyon",
+      "favorito_predicho": "local",
+      "margen": 62.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891433",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Seattle U",
+      "equipo_visitante": "LMU",
+      "favorito_predicho": "local",
+      "margen": 53.2,
+      "confianza_elo": 82.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842302",
+      "liga_slug": "usa.usl.1",
+      "equipo_local": "El Paso",
+      "equipo_visitante": "New Mexico",
+      "favorito_predicho": "local",
+      "margen": 61.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877895",
+      "liga_slug": "col.1",
+      "equipo_local": "Once Caldas",
+      "equipo_visitante": "Pereira",
+      "favorito_predicho": "local",
+      "margen": 43.8,
+      "confianza_elo": 43.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
