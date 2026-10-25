@@ -20929,6 +20929,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401914262",
+      "liga_slug": "caf.champions",
+      "equipo_local": "Simba",
+      "equipo_visitante": "Agosto",
+      "favorito_predicho": "local",
+      "margen": 59.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401874547",
+      "liga_slug": "den.1",
+      "equipo_local": "Midtjylland",
+      "equipo_visitante": "Lyngby",
+      "favorito_predicho": "local",
+      "margen": 71.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401843373",
+      "liga_slug": "nor.1",
+      "equipo_local": "Viking FK",
+      "equipo_visitante": "Tromso",
+      "favorito_predicho": "local",
+      "margen": 65.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
