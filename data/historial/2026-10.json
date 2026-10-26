@@ -22385,6 +22385,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401899273",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "James Madison",
+      "equipo_visitante": "Kentucky",
+      "favorito_predicho": "local",
+      "margen": 66.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883980",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Northwestern",
+      "equipo_visitante": "Purdue",
+      "favorito_predicho": "visitante",
+      "margen": 67.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401841634",
+      "liga_slug": "arg.1",
+      "equipo_local": "River Plate",
+      "equipo_visitante": "Racing ",
+      "favorito_predicho": "local",
+      "margen": 68.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
