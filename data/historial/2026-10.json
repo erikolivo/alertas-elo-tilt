@@ -22637,6 +22637,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876422",
+      "liga_slug": "all",
+      "equipo_local": "PSG",
+      "equipo_visitante": "Lyon",
+      "favorito_predicho": "local",
+      "margen": 58.0,
+      "confianza_elo": 86.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
