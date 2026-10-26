@@ -22567,6 +22567,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888264",
+      "liga_slug": "all",
+      "equipo_local": "Besiktas",
+      "equipo_visitante": "Istanbul BB",
+      "favorito_predicho": "local",
+      "margen": 52.2,
+      "confianza_elo": 79.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401844243",
+      "liga_slug": "all",
+      "equipo_local": "N. Chicago",
+      "equipo_visitante": "San Martín SJ",
+      "favorito_predicho": "visitante",
+      "margen": 41.3,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
