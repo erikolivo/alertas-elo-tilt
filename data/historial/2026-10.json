@@ -22539,6 +22539,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876922",
+      "liga_slug": "all",
+      "equipo_local": "América",
+      "equipo_visitante": "Pachuca",
+      "favorito_predicho": "local",
+      "margen": 76.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877918",
+      "liga_slug": "col.1",
+      "equipo_local": "Tolima",
+      "equipo_visitante": "Pasto",
+      "favorito_predicho": "local",
+      "margen": 49.1,
+      "confianza_elo": 64.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
