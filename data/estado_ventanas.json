@@ -1778,10 +1778,10 @@
         "401876920"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-10-26T01:23:00.760723-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-10-26T01:53:07.567599-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-10-26T01:53:07.567599-05:00"
     },
     "2026-10-25T23:00:00-05:00": {
       "anunciada": true,
