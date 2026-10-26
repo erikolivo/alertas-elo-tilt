@@ -22315,6 +22315,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401854032",
+      "liga_slug": "all",
+      "equipo_local": "Kansas City",
+      "equipo_visitante": "Washington",
+      "favorito_predicho": "local",
+      "margen": 61.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926727",
+      "liga_slug": "hon.1",
+      "equipo_local": "Motagua",
+      "equipo_visitante": "Juticalpa",
+      "favorito_predicho": "local",
+      "margen": 76.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899775",
+      "liga_slug": "slv.1",
+      "equipo_local": "Fuerte SF",
+      "equipo_visitante": "Atl Balboa",
+      "favorito_predicho": "local",
+      "margen": 44.6,
+      "confianza_elo": 41.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879638",
+      "liga_slug": "gua.1",
+      "equipo_local": "San Pedro",
+      "equipo_visitante": "Malacateco",
+      "favorito_predicho": "local",
+      "margen": 49.3,
+      "confianza_elo": 64.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401921329",
+      "liga_slug": "ecu.1",
+      "equipo_local": "Aucas",
+      "equipo_visitante": "Barcelona",
+      "favorito_predicho": "local",
+      "margen": 51.4,
+      "confianza_elo": 73.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
