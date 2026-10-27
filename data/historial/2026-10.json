@@ -23057,6 +23057,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401921835",
+      "liga_slug": "all",
+      "equipo_local": "Fleetwood Town",
+      "equipo_visitante": "Arsenal",
+      "favorito_predicho": "visitante",
+      "margen": 63.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401925181",
+      "liga_slug": "all",
+      "equipo_local": "Koninklijke ",
+      "equipo_visitante": "Go Ahead Eagles",
+      "favorito_predicho": "local",
+      "margen": 41.1,
+      "confianza_elo": 29.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
