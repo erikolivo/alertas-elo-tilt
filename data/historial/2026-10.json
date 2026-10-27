@@ -22651,6 +22651,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929998",
+      "liga_slug": "all",
+      "equipo_local": "N Potosí",
+      "equipo_visitante": "Guabirá",
+      "favorito_predicho": "local",
+      "margen": 42.4,
+      "confianza_elo": 40.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
