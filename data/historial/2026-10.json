@@ -22665,6 +22665,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401924400",
+      "liga_slug": "all",
+      "equipo_local": "Atlas",
+      "equipo_visitante": "Puebla",
+      "favorito_predicho": "local",
+      "margen": 41.1,
+      "confianza_elo": 46.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401859960",
+      "liga_slug": "all",
+      "equipo_local": "Toronto",
+      "equipo_visitante": "Halifax",
+      "favorito_predicho": "local",
+      "margen": 51.8,
+      "confianza_elo": 72.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401887044",
+      "liga_slug": "all",
+      "equipo_local": "Iowa State",
+      "equipo_visitante": "BYU",
+      "favorito_predicho": "visitante",
+      "margen": 63.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
