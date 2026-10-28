@@ -23617,6 +23617,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401921842",
+      "liga_slug": "all",
+      "equipo_local": "Liverpool",
+      "equipo_visitante": "Chelsea",
+      "favorito_predicho": "local",
+      "margen": 45.7,
+      "confianza_elo": 42.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916996",
+      "liga_slug": "all",
+      "equipo_local": "Lyonnes",
+      "equipo_visitante": "Inter Milan",
+      "favorito_predicho": "local",
+      "margen": 68.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401925223",
+      "liga_slug": "all",
+      "equipo_local": "Maassluis",
+      "equipo_visitante": "Heerenveen",
+      "favorito_predicho": "local",
+      "margen": 52.6,
+      "confianza_elo": 84.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928548",
+      "liga_slug": "all",
+      "equipo_local": "Xerez",
+      "equipo_visitante": "Cádiz",
+      "favorito_predicho": "local",
+      "margen": 43.5,
+      "confianza_elo": 46.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886130",
+      "liga_slug": "per.1",
+      "equipo_local": "Alianza Atl",
+      "equipo_visitante": "Garcilaso",
+      "favorito_predicho": "local",
+      "margen": 42.7,
+      "confianza_elo": 45.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
