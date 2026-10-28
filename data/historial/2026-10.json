@@ -23183,6 +23183,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916251",
+      "liga_slug": "fifa.wworld.u17",
+      "equipo_local": "Germany",
+      "equipo_visitante": "Venezuela",
+      "favorito_predicho": "local",
+      "margen": 72.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916254",
+      "liga_slug": "fifa.wworld.u17",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Ghana",
+      "favorito_predicho": "local",
+      "margen": 69.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898246",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Marist",
+      "equipo_visitante": "Saint Peter's",
+      "favorito_predicho": "local",
+      "margen": 50.9,
+      "confianza_elo": 69.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
