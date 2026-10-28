@@ -23099,6 +23099,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898223",
+      "liga_slug": "all",
+      "equipo_local": "Fairfield",
+      "equipo_visitante": "Army",
+      "favorito_predicho": "local",
+      "margen": 76.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898794",
+      "liga_slug": "all",
+      "equipo_local": "Michigan St",
+      "equipo_visitante": "Green Bay",
+      "favorito_predicho": "local",
+      "margen": 72.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891953",
+      "liga_slug": "all",
+      "equipo_local": "North Carolina",
+      "equipo_visitante": "William & Mary",
+      "favorito_predicho": "local",
+      "margen": 69.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
