@@ -24107,6 +24107,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401900882",
+      "liga_slug": "all",
+      "equipo_local": "Al Khaleej",
+      "equipo_visitante": "Al Hazem",
+      "favorito_predicho": "local",
+      "margen": 42.3,
+      "confianza_elo": 33.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
