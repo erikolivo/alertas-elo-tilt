@@ -24219,6 +24219,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898531",
+      "liga_slug": "all",
+      "equipo_local": "E Illinois",
+      "equipo_visitante": "S Indiana",
+      "favorito_predicho": "local",
+      "margen": 40.2,
+      "confianza_elo": 30.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886871",
+      "liga_slug": "all",
+      "equipo_local": "UMass",
+      "equipo_visitante": "W Michigan",
+      "favorito_predicho": "local",
+      "margen": 51.4,
+      "confianza_elo": 78.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401921844",
+      "liga_slug": "all",
+      "equipo_local": "Everton",
+      "equipo_visitante": "Newcastle",
+      "favorito_predicho": "local",
+      "margen": 48.1,
+      "confianza_elo": 75.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
