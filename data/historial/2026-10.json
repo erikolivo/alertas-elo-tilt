@@ -24121,6 +24121,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874976",
+      "liga_slug": "all",
+      "equipo_local": "Frosinone",
+      "equipo_visitante": "Lecce",
+      "favorito_predicho": "local",
+      "margen": 60.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401842861",
+      "liga_slug": "all",
+      "equipo_local": "Hammarby",
+      "equipo_visitante": "Sirius",
+      "favorito_predicho": "local",
+      "margen": 51.6,
+      "confianza_elo": 72.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
