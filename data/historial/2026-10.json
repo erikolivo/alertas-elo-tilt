@@ -24079,6 +24079,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876986",
+      "liga_slug": "all",
+      "equipo_local": "América",
+      "equipo_visitante": "Tijuana",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 79.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401922482",
+      "liga_slug": "concacaf.central.american.cup",
+      "equipo_local": "Olimpia",
+      "equipo_visitante": "Cartaginés",
+      "favorito_predicho": "local",
+      "margen": 53.1,
+      "confianza_elo": 87.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
