@@ -24149,6 +24149,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928529",
+      "liga_slug": "all",
+      "equipo_local": "Baleares",
+      "equipo_visitante": "Eldense",
+      "favorito_predicho": "local",
+      "margen": 43.0,
+      "confianza_elo": 35.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900881",
+      "liga_slug": "all",
+      "equipo_local": "Al Nassr",
+      "equipo_visitante": "Al Kholood",
+      "favorito_predicho": "local",
+      "margen": 63.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916252",
+      "liga_slug": "all",
+      "equipo_local": "Japan",
+      "equipo_visitante": "Kenya",
+      "favorito_predicho": "local",
+      "margen": 74.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916266",
+      "liga_slug": "all",
+      "equipo_local": "Spain",
+      "equipo_visitante": "United States",
+      "favorito_predicho": "local",
+      "margen": 61.2,
+      "confianza_elo": 88.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928530",
+      "liga_slug": "all",
+      "equipo_local": "Cieza",
+      "equipo_visitante": "Granada",
+      "favorito_predicho": "local",
+      "margen": 45.6,
+      "confianza_elo": 65.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
