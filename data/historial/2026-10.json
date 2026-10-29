@@ -24261,6 +24261,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928552",
+      "liga_slug": "all",
+      "equipo_local": "Hortaleza",
+      "equipo_visitante": "Sevilla",
+      "favorito_predicho": "local",
+      "margen": 47.0,
+      "confianza_elo": 44.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
