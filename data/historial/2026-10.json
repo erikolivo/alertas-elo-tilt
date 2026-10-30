@@ -24541,6 +24541,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898423",
+      "liga_slug": "all",
+      "equipo_local": "American",
+      "equipo_visitante": "Holy Cross",
+      "favorito_predicho": "local",
+      "margen": 57.5,
+      "confianza_elo": 92.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885068",
+      "liga_slug": "all",
+      "equipo_local": "Bielefeld",
+      "equipo_visitante": "E Braunschweig",
+      "favorito_predicho": "local",
+      "margen": 50.4,
+      "confianza_elo": 68.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
