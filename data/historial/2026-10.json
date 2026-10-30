@@ -24275,6 +24275,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898759",
+      "liga_slug": "all",
+      "equipo_local": "FDU",
+      "equipo_visitante": "C Connecticut",
+      "favorito_predicho": "local",
+      "margen": 48.5,
+      "confianza_elo": 66.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889743",
+      "liga_slug": "all",
+      "equipo_local": "California",
+      "equipo_visitante": "Notre Dame",
+      "favorito_predicho": "visitante",
+      "margen": 41.3,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889787",
+      "liga_slug": "all",
+      "equipo_local": "Virginia",
+      "equipo_visitante": "Louisville",
+      "favorito_predicho": "local",
+      "margen": 47.2,
+      "confianza_elo": 64.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889855",
+      "liga_slug": "all",
+      "equipo_local": "West Georgia",
+      "equipo_visitante": "E Kentucky",
+      "favorito_predicho": "visitante",
+      "margen": 53.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889600",
+      "liga_slug": "all",
+      "equipo_local": "Wofford",
+      "equipo_visitante": "VMI",
+      "favorito_predicho": "local",
+      "margen": 60.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
