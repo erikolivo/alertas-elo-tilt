@@ -24681,6 +24681,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401882817",
+      "liga_slug": "all",
+      "equipo_local": "Villarreal",
+      "equipo_visitante": "Espanyol",
+      "favorito_predicho": "local",
+      "margen": 67.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880190",
+      "liga_slug": "all",
+      "equipo_local": "Sheffield Utd",
+      "equipo_visitante": "Wrexham",
+      "favorito_predicho": "local",
+      "margen": 46.9,
+      "confianza_elo": 52.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401892244",
+      "liga_slug": "all",
+      "equipo_local": "Vermont",
+      "equipo_visitante": "Binghamton",
+      "favorito_predicho": "local",
+      "margen": 66.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
