@@ -24485,6 +24485,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886328",
+      "liga_slug": "all",
+      "equipo_local": "Oaxaca",
+      "equipo_visitante": "CD Mineros",
+      "favorito_predicho": "local",
+      "margen": 49.2,
+      "confianza_elo": 61.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877845",
+      "liga_slug": "all",
+      "equipo_local": "Atl. Nacional",
+      "equipo_visitante": "Santa Fe",
+      "favorito_predicho": "local",
+      "margen": 50.0,
+      "confianza_elo": 62.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
