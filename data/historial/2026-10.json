@@ -24443,6 +24443,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901499",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "North Alabama",
+      "equipo_visitante": "Austin Peay",
+      "favorito_predicho": "local",
+      "margen": 72.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900151",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Omaha",
+      "equipo_visitante": "Oral Roberts",
+      "favorito_predicho": "visitante",
+      "margen": 52.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886150",
+      "liga_slug": "all",
+      "equipo_local": "Melgar",
+      "equipo_visitante": "Comer Unid",
+      "favorito_predicho": "local",
+      "margen": 63.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
