@@ -24513,6 +24513,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401889800",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Stanford",
+      "equipo_visitante": "NC State",
+      "favorito_predicho": "local",
+      "margen": 51.7,
+      "confianza_elo": 57.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879594",
+      "liga_slug": "all",
+      "equipo_local": "Marquense",
+      "equipo_visitante": "Guastatoya",
+      "favorito_predicho": "local",
+      "margen": 43.5,
+      "confianza_elo": 41.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
