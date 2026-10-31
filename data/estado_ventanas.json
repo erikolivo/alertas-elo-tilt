@@ -13,16 +13,6 @@
       "intentos_cierre": 4,
       "ultimo_intento_cierre": "2026-10-28T00:53:43.426261-05:00"
     },
-    "2026-10-27T22:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-10-27T21:49:47.100324-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-10-28T00:23:35.551392-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-10-28T00:23:35.551392-05:00"
-    },
     "2026-10-27T23:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-10-27T22:50:00.672226-05:00",
