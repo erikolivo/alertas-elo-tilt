@@ -25339,6 +25339,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401886325",
+      "liga_slug": "all",
+      "equipo_local": "CA La Paz",
+      "equipo_visitante": "Dorados",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401924399",
+      "liga_slug": "all",
+      "equipo_local": "Monterrey",
+      "equipo_visitante": "UNAM",
+      "favorito_predicho": "local",
+      "margen": 59.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401884285",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Washington",
+      "equipo_visitante": "Oregon",
+      "favorito_predicho": "local",
+      "margen": 50.8,
+      "confianza_elo": 65.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
