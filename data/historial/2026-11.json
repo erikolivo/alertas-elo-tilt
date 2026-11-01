@@ -83,6 +83,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401876828",
+      "liga_slug": "crc.1",
+      "equipo_local": "Spr. San José",
+      "equipo_visitante": "Herediano",
+      "favorito_predicho": "local",
+      "margen": 47.7,
+      "confianza_elo": 76.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891051",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "CSU Bakersfield",
+      "equipo_visitante": "Utah Valley",
+      "favorito_predicho": "visitante",
+      "margen": 53.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891326",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Oregon State",
+      "equipo_visitante": "Gonzaga",
+      "favorito_predicho": "local",
+      "margen": 57.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401891086",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Santa Barbara",
+      "equipo_visitante": "CSU Northridge",
+      "favorito_predicho": "local",
+      "margen": 60.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
