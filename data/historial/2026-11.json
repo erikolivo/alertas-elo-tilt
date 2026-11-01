@@ -1,0 +1,88 @@
+{
+  "ventanas": [
+    {
+      "fixture_id": "401886262",
+      "liga_slug": "all",
+      "equipo_local": "Cancún",
+      "equipo_visitante": "Jaiba Brava",
+      "favorito_predicho": "local",
+      "margen": 65.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899700",
+      "liga_slug": "slv.1",
+      "equipo_local": "Isidro Metapán",
+      "equipo_visitante": "Limeño",
+      "favorito_predicho": "local",
+      "margen": 45.2,
+      "confianza_elo": 50.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876914",
+      "liga_slug": "all",
+      "equipo_local": "Monterrey",
+      "equipo_visitante": "Tijuana",
+      "favorito_predicho": "local",
+      "margen": 41.8,
+      "confianza_elo": 40.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876915",
+      "liga_slug": "all",
+      "equipo_local": "Guadalajara",
+      "equipo_visitante": "Atlante",
+      "favorito_predicho": "local",
+      "margen": 73.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761923",
+      "liga_slug": "all",
+      "equipo_local": "Colorado",
+      "equipo_visitante": "Chicago",
+      "favorito_predicho": "local",
+      "margen": 41.4,
+      "confianza_elo": 37.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926741",
+      "liga_slug": "hon.1",
+      "equipo_local": "Choloma",
+      "equipo_visitante": "Olimpia",
+      "favorito_predicho": "visitante",
+      "margen": 44.4,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    }
+  ]
+}
