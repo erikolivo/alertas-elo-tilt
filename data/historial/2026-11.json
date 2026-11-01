@@ -1077,6 +1077,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888574",
+      "liga_slug": "par.1",
+      "equipo_local": "Cerro Porteño",
+      "equipo_visitante": "Olimpia",
+      "favorito_predicho": "visitante",
+      "margen": 43.7,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890266",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Montana",
+      "equipo_visitante": "Idaho",
+      "favorito_predicho": "visitante",
+      "margen": 46.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883144",
+      "liga_slug": "all",
+      "equipo_local": "Tenerife",
+      "equipo_visitante": "FC Andorra",
+      "favorito_predicho": "local",
+      "margen": 57.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "761927",
+      "liga_slug": "all",
+      "equipo_local": "Vancouver",
+      "equipo_visitante": "Seattle",
+      "favorito_predicho": "local",
+      "margen": 59.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886126",
+      "liga_slug": "per.1",
+      "equipo_local": "Atlético Grau",
+      "equipo_visitante": "Universitario",
+      "favorito_predicho": "visitante",
+      "margen": 46.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
