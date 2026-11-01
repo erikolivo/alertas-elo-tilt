@@ -139,6 +139,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401924361",
+      "liga_slug": "all",
+      "equipo_local": "Necaxa",
+      "equipo_visitante": "Santos",
+      "favorito_predicho": "visitante",
+      "margen": 60.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
