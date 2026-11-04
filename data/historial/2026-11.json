@@ -1959,6 +1959,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401912767",
+      "liga_slug": "all",
+      "equipo_local": "Arkadag FK",
+      "equipo_visitante": "Gol Gohar",
+      "favorito_predicho": "local",
+      "margen": 48.9,
+      "confianza_elo": 61.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
