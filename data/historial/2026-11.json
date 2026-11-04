@@ -2043,6 +2043,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916229",
+      "liga_slug": "all",
+      "equipo_local": "Brazil",
+      "equipo_visitante": "Nigeria",
+      "favorito_predicho": "local",
+      "margen": 57.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898237",
+      "liga_slug": "all",
+      "equipo_local": "Iona",
+      "equipo_visitante": "Manhattan",
+      "favorito_predicho": "local",
+      "margen": 52.8,
+      "confianza_elo": 75.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900223",
+      "liga_slug": "all",
+      "equipo_local": "American",
+      "equipo_visitante": "Bucknell",
+      "favorito_predicho": "visitante",
+      "margen": 49.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401912762",
+      "liga_slug": "all",
+      "equipo_local": "Al Taawoun",
+      "equipo_visitante": "Al-Faisaly SC",
+      "favorito_predicho": "local",
+      "margen": 40.4,
+      "confianza_elo": 29.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
