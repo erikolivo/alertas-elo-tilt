@@ -387,10 +387,10 @@
         "401878615",
         "401844253"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-04T00:35:10.874639-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-04T01:05:23.769115-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-04T01:05:23.769115-05:00"
     },
     "2026-11-01T18:00:00-05:00": {
       "anunciada": true,
@@ -416,10 +416,10 @@
         "401931255",
         "401898760"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-04T00:35:10.874639-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-04T01:05:23.769115-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-04T01:05:23.769115-05:00"
     },
     "2026-11-01T19:00:00-05:00": {
       "anunciada": true,
@@ -439,10 +439,10 @@
         "401900705",
         "401902145"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-04T00:35:10.874639-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-04T01:05:23.769115-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-04T01:05:23.769115-05:00"
     },
     "2026-11-04T00:00:00-05:00": {
       "anunciada": true,
