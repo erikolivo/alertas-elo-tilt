@@ -2169,6 +2169,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401915301",
+      "liga_slug": "all",
+      "equipo_local": "FC Porto",
+      "equipo_visitante": "Napoli",
+      "favorito_predicho": "local",
+      "margen": 60.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915381",
+      "liga_slug": "all",
+      "equipo_local": "Slavia Prague",
+      "equipo_visitante": "Arsenal",
+      "favorito_predicho": "visitante",
+      "margen": 67.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915302",
+      "liga_slug": "all",
+      "equipo_local": "Viking FK",
+      "equipo_visitante": "Sabah",
+      "favorito_predicho": "local",
+      "margen": 56.6,
+      "confianza_elo": 88.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900005",
+      "liga_slug": "all",
+      "equipo_local": "Manhattan",
+      "equipo_visitante": "Iona",
+      "favorito_predicho": "local",
+      "margen": 60.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
