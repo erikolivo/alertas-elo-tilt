@@ -1973,6 +1973,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916247",
+      "liga_slug": "all",
+      "equipo_local": "Japan",
+      "equipo_visitante": "North Korea",
+      "favorito_predicho": "local",
+      "margen": 46.0,
+      "confianza_elo": 35.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
