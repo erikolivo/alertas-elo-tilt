@@ -2099,6 +2099,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898260",
+      "liga_slug": "all",
+      "equipo_local": "Quinnipiac",
+      "equipo_visitante": "Merrimack",
+      "favorito_predicho": "local",
+      "margen": 49.5,
+      "confianza_elo": 63.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890045",
+      "liga_slug": "all",
+      "equipo_local": "St Peter's",
+      "equipo_visitante": "Quinnipiac",
+      "favorito_predicho": "visitante",
+      "margen": 71.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401890006",
+      "liga_slug": "all",
+      "equipo_local": "Siena",
+      "equipo_visitante": "Marist",
+      "favorito_predicho": "local",
+      "margen": 50.4,
+      "confianza_elo": 82.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880173",
+      "liga_slug": "all",
+      "equipo_local": "Wrexham",
+      "equipo_visitante": "Boro",
+      "favorito_predicho": "visitante",
+      "margen": 58.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880891",
+      "liga_slug": "all",
+      "equipo_local": "Oxford Utd",
+      "equipo_visitante": "Reading",
+      "favorito_predicho": "local",
+      "margen": 50.2,
+      "confianza_elo": 65.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
