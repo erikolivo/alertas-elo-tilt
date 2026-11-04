@@ -1987,6 +1987,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401912766",
+      "liga_slug": "all",
+      "equipo_local": "Al Wahda FC",
+      "equipo_visitante": "Al-Khaldiya SC",
+      "favorito_predicho": "local",
+      "margen": 75.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401912764",
+      "liga_slug": "all",
+      "equipo_local": "Al-Rayyan SC",
+      "equipo_visitante": "Al-Nahda Club",
+      "favorito_predicho": "local",
+      "margen": 63.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401912765",
+      "liga_slug": "all",
+      "equipo_local": "Kuwait SC",
+      "equipo_visitante": "FC Nasaf",
+      "favorito_predicho": "local",
+      "margen": 66.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
