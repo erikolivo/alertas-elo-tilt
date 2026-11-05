@@ -2589,6 +2589,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901051",
+      "liga_slug": "all",
+      "equipo_local": "Illinois St",
+      "equipo_visitante": "Valparaiso",
+      "favorito_predicho": "local",
+      "margen": 62.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401901034",
+      "liga_slug": "all",
+      "equipo_local": "Northern Iowa",
+      "equipo_visitante": "Drake",
+      "favorito_predicho": "visitante",
+      "margen": 69.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929922",
+      "liga_slug": "all",
+      "equipo_local": "Hofstra",
+      "equipo_visitante": "Stony Brook",
+      "favorito_predicho": "local",
+      "margen": 47.7,
+      "confianza_elo": 45.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
