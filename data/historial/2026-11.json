@@ -2547,6 +2547,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929917",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Fullerton",
+      "equipo_visitante": "CSU Northridge",
+      "favorito_predicho": "local",
+      "margen": 70.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
