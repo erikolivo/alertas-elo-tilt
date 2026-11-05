@@ -2267,6 +2267,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401898225",
+      "liga_slug": "all",
+      "equipo_local": "Fairfield",
+      "equipo_visitante": "Sacred Heart",
+      "favorito_predicho": "local",
+      "margen": 56.1,
+      "confianza_elo": 93.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929725",
+      "liga_slug": "all",
+      "equipo_local": "Louisville",
+      "equipo_visitante": "Stanford",
+      "favorito_predicho": "local",
+      "margen": 58.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929728",
+      "liga_slug": "all",
+      "equipo_local": "North Carolina",
+      "equipo_visitante": "California",
+      "favorito_predicho": "local",
+      "margen": 43.1,
+      "confianza_elo": 42.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929726",
+      "liga_slug": "all",
+      "equipo_local": "Wake Forest",
+      "equipo_visitante": "Boston College",
+      "favorito_predicho": "local",
+      "margen": 47.2,
+      "confianza_elo": 54.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401900214",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Army",
+      "equipo_visitante": "Holy Cross",
+      "favorito_predicho": "local",
+      "margen": 58.2,
+      "confianza_elo": 97.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
