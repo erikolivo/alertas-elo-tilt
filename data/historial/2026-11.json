@@ -2981,6 +2981,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929983",
+      "liga_slug": "all",
+      "equipo_local": "Bolívar",
+      "equipo_visitante": "Real Potosí",
+      "favorito_predicho": "local",
+      "margen": 48.0,
+      "confianza_elo": 49.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401898885",
+      "liga_slug": "all",
+      "equipo_local": "C Connecticut",
+      "equipo_visitante": "New Haven",
+      "favorito_predicho": "local",
+      "margen": 58.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889730",
+      "liga_slug": "all",
+      "equipo_local": "Boston College",
+      "equipo_visitante": "Stanford",
+      "favorito_predicho": "local",
+      "margen": 44.5,
+      "confianza_elo": 33.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889774",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Florida St",
+      "equipo_visitante": "Virginia Tech",
+      "favorito_predicho": "local",
+      "margen": 58.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
