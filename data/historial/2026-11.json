@@ -3527,6 +3527,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879242",
+      "liga_slug": "all",
+      "equipo_local": "Everton",
+      "equipo_visitante": "Coventry",
+      "favorito_predicho": "local",
+      "margen": 54.8,
+      "confianza_elo": 82.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401882809",
+      "liga_slug": "all",
+      "equipo_local": "Sevilla",
+      "equipo_visitante": "Alavés",
+      "favorito_predicho": "local",
+      "margen": 44.8,
+      "confianza_elo": 47.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885648",
+      "liga_slug": "all",
+      "equipo_local": "PSG",
+      "equipo_visitante": "Le Havre AC",
+      "favorito_predicho": "local",
+      "margen": 70.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929721",
+      "liga_slug": "all",
+      "equipo_local": "George Mason",
+      "equipo_visitante": "Fordham",
+      "favorito_predicho": "local",
+      "margen": 60.7,
+      "confianza_elo": 89.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885399",
+      "liga_slug": "all",
+      "equipo_local": "FC Famalicao",
+      "equipo_visitante": "Arouca",
+      "favorito_predicho": "visitante",
+      "margen": 43.5,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
