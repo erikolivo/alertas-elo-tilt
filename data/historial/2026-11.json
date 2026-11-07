@@ -3989,6 +3989,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401850688",
+      "liga_slug": "chi.1",
+      "equipo_local": "La Serena",
+      "equipo_visitante": "Palestino",
+      "favorito_predicho": "local",
+      "margen": 46.4,
+      "confianza_elo": 57.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929957",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Kent State",
+      "equipo_visitante": "Ball State",
+      "favorito_predicho": "local",
+      "margen": 40.2,
+      "confianza_elo": 22.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929933",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Youngstown St",
+      "equipo_visitante": "Wright St",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 67.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916269",
+      "liga_slug": "fifa.wworld.u17",
+      "equipo_local": "Japan",
+      "equipo_visitante": "Nigeria",
+      "favorito_predicho": "local",
+      "margen": 63.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
