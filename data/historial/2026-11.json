@@ -3765,6 +3765,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879602",
+      "liga_slug": "all",
+      "equipo_local": "Guastatoya",
+      "equipo_visitante": "Suchitepeque",
+      "favorito_predicho": "local",
+      "margen": 43.4,
+      "confianza_elo": 37.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
