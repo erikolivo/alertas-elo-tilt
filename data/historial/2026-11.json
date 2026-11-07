@@ -3821,6 +3821,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933277",
+      "liga_slug": "all",
+      "equipo_local": "Gabon",
+      "equipo_visitante": "Congo",
+      "favorito_predicho": "local",
+      "margen": 41.2,
+      "confianza_elo": 59.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888255",
+      "liga_slug": "tur.1",
+      "equipo_local": "Eyupspor",
+      "equipo_visitante": "Kocaelispor",
+      "favorito_predicho": "visitante",
+      "margen": 54.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401892141",
+      "liga_slug": "aus.1",
+      "equipo_local": "Perth Glory",
+      "equipo_visitante": "Newcastle Jets",
+      "favorito_predicho": "local",
+      "margen": 61.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
