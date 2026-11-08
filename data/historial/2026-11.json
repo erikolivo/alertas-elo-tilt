@@ -4451,6 +4451,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401901006",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Nevada",
+      "equipo_visitante": "UC Davis",
+      "favorito_predicho": "local",
+      "margen": 43.7,
+      "confianza_elo": 41.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
