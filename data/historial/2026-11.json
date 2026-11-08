@@ -4913,6 +4913,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401842877",
+      "liga_slug": "swe.1",
+      "equipo_local": "Halmstads",
+      "equipo_visitante": "Djurgården",
+      "favorito_predicho": "visitante",
+      "margen": 48.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879815",
+      "liga_slug": "all",
+      "equipo_local": "Spartak",
+      "equipo_visitante": "Akron Tolyatti",
+      "favorito_predicho": "local",
+      "margen": 59.9,
+      "confianza_elo": 97.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401881753",
+      "liga_slug": "all",
+      "equipo_local": "TSV Hartberg",
+      "equipo_visitante": "SC Rheindorf",
+      "favorito_predicho": "local",
+      "margen": 60.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401843476",
+      "liga_slug": "nor.1",
+      "equipo_local": "Tromso",
+      "equipo_visitante": "Bodo/Glimt",
+      "favorito_predicho": "visitante",
+      "margen": 41.9,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
