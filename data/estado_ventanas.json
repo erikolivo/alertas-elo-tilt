@@ -1223,10 +1223,10 @@
         "401884741",
         "401896729"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-08T14:25:42.940365-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-08T14:56:32.929080-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-08T14:56:32.929080-05:00"
     },
     "2026-11-08T12:00:00-05:00": {
       "anunciada": true,
