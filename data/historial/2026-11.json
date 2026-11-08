@@ -4843,6 +4843,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401892140",
+      "liga_slug": "aus.1",
+      "equipo_local": "Macarthur",
+      "equipo_visitante": "Brisbane",
+      "favorito_predicho": "local",
+      "margen": 42.9,
+      "confianza_elo": 48.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
