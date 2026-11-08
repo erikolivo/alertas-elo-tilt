@@ -4857,6 +4857,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931079",
+      "liga_slug": "all",
+      "equipo_local": "Stafford",
+      "equipo_visitante": "Grimsby",
+      "favorito_predicho": "local",
+      "margen": 75.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401878946",
+      "liga_slug": "all",
+      "equipo_local": "Club Brugge",
+      "equipo_visitante": "Anderlecht",
+      "favorito_predicho": "local",
+      "margen": 49.7,
+      "confianza_elo": 60.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885059",
+      "liga_slug": "all",
+      "equipo_local": "Magdeburg",
+      "equipo_visitante": "St. Pauli",
+      "favorito_predicho": "local",
+      "margen": 44.1,
+      "confianza_elo": 41.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885062",
+      "liga_slug": "all",
+      "equipo_local": "Bochum",
+      "equipo_visitante": "Karlsruher",
+      "favorito_predicho": "local",
+      "margen": 45.0,
+      "confianza_elo": 42.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
