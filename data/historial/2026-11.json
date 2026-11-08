@@ -4801,6 +4801,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929821",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "CA Baptist",
+      "equipo_visitante": "San Diego St",
+      "favorito_predicho": "local",
+      "margen": 58.5,
+      "confianza_elo": 99.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931919",
+      "liga_slug": "mex.2",
+      "equipo_local": "CA La Paz",
+      "equipo_visitante": "Tlaxcala",
+      "favorito_predicho": "local",
+      "margen": 42.6,
+      "confianza_elo": 59.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876904",
+      "liga_slug": "all",
+      "equipo_local": "UNAM",
+      "equipo_visitante": "América",
+      "favorito_predicho": "visitante",
+      "margen": 51.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
