@@ -4759,6 +4759,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879606",
+      "liga_slug": "gua.1",
+      "equipo_local": "Marquense",
+      "equipo_visitante": "Comunicaciones",
+      "favorito_predicho": "local",
+      "margen": 47.3,
+      "confianza_elo": 57.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933018",
+      "liga_slug": "usa.usl.l1",
+      "equipo_local": "Boise",
+      "equipo_visitante": "Chattanooga",
+      "favorito_predicho": "local",
+      "margen": 71.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933009",
+      "liga_slug": "usa.usl.1",
+      "equipo_local": "New Mexico",
+      "equipo_visitante": "Switchbacks FC",
+      "favorito_predicho": "local",
+      "margen": 43.6,
+      "confianza_elo": 46.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
