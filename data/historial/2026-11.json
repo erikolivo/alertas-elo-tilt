@@ -6369,6 +6369,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929822",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Oregon State",
+      "equipo_visitante": "UC Riverside",
+      "favorito_predicho": "local",
+      "margen": 65.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
