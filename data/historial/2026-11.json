@@ -6047,6 +6047,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929914",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Purdue",
+      "equipo_visitante": "Wisconsin",
+      "favorito_predicho": "local",
+      "margen": 50.2,
+      "confianza_elo": 64.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931351",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Tarleton St",
+      "equipo_visitante": "Austin Peay",
+      "favorito_predicho": "local",
+      "margen": 74.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860428",
+      "liga_slug": "bra.2",
+      "equipo_local": "Goiás",
+      "equipo_visitante": "Ponte Preta",
+      "favorito_predicho": "local",
+      "margen": 70.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401888564",
+      "liga_slug": "par.1",
+      "equipo_local": "Trinidense",
+      "equipo_visitante": "Ameliano",
+      "favorito_predicho": "local",
+      "margen": 47.9,
+      "confianza_elo": 53.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
