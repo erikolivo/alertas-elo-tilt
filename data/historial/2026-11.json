@@ -6383,6 +6383,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401883139",
+      "liga_slug": "all",
+      "equipo_local": "CD Sabadell",
+      "equipo_visitante": "Real Sociedad II",
+      "favorito_predicho": "local",
+      "margen": 53.4,
+      "confianza_elo": 79.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931344",
+      "liga_slug": "all",
+      "equipo_local": "Old Dominion",
+      "equipo_visitante": "Marshall",
+      "favorito_predicho": "local",
+      "margen": 42.5,
+      "confianza_elo": 32.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
