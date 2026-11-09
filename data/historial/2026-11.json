@@ -6411,6 +6411,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401882465",
+      "liga_slug": "all",
+      "equipo_local": "Deportivo",
+      "equipo_visitante": "Valencia",
+      "favorito_predicho": "local",
+      "margen": 61.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929890",
+      "liga_slug": "all",
+      "equipo_local": "BYU",
+      "equipo_visitante": "West Virginia",
+      "favorito_predicho": "local",
+      "margen": 52.2,
+      "confianza_elo": 67.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
