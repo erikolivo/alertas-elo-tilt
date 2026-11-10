@@ -6593,6 +6593,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928514",
+      "liga_slug": "all",
+      "equipo_local": "Anaitasuna",
+      "equipo_visitante": "Alavés",
+      "favorito_predicho": "local",
+      "margen": 48.0,
+      "confianza_elo": 61.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928137",
+      "liga_slug": "all",
+      "equipo_local": "Feyenoord",
+      "equipo_visitante": "Wolfsburg",
+      "favorito_predicho": "visitante",
+      "margen": 50.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929722",
+      "liga_slug": "all",
+      "equipo_local": "Duquesne",
+      "equipo_visitante": "Fordham",
+      "favorito_predicho": "local",
+      "margen": 51.7,
+      "confianza_elo": 81.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931325",
+      "liga_slug": "all",
+      "equipo_local": "Incarnate Word",
+      "equipo_visitante": "Nicholls",
+      "favorito_predicho": "local",
+      "margen": 61.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929959",
+      "liga_slug": "all",
+      "equipo_local": "UMass",
+      "equipo_visitante": "Ball State",
+      "favorito_predicho": "local",
+      "margen": 44.0,
+      "confianza_elo": 53.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
