@@ -6551,6 +6551,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929834",
+      "liga_slug": "all",
+      "equipo_local": "American",
+      "equipo_visitante": "Bucknell",
+      "favorito_predicho": "local",
+      "margen": 48.8,
+      "confianza_elo": 57.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916991",
+      "liga_slug": "all",
+      "equipo_local": "BK Häcken",
+      "equipo_visitante": "Chelsea ",
+      "favorito_predicho": "visitante",
+      "margen": 67.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916990",
+      "liga_slug": "all",
+      "equipo_local": "Real Madrid",
+      "equipo_visitante": "Paris FC",
+      "favorito_predicho": "local",
+      "margen": 56.5,
+      "confianza_elo": 98.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
