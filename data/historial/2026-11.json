@@ -6439,6 +6439,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931345",
+      "liga_slug": "all",
+      "equipo_local": "Georgia St",
+      "equipo_visitante": "South Alabama",
+      "favorito_predicho": "local",
+      "margen": 50.7,
+      "confianza_elo": 77.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
