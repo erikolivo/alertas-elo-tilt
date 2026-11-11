@@ -901,10 +901,10 @@
         "401928150",
         "401929899"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-11T15:29:40.029540-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-11T16:03:12.094478-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-11T16:03:12.094478-05:00"
     },
     "2026-11-11T13:00:00-05:00": {
       "anunciada": true,

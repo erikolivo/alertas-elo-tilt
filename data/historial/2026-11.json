@@ -6901,6 +6901,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401930126",
+      "liga_slug": "all",
+      "equipo_local": "Navy",
+      "equipo_visitante": "Loyola MD",
+      "favorito_predicho": "local",
+      "margen": 61.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928150",
+      "liga_slug": "all",
+      "equipo_local": "Eintracht",
+      "equipo_visitante": "PSV",
+      "favorito_predicho": "local",
+      "margen": 52.9,
+      "confianza_elo": 81.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929899",
+      "liga_slug": "all",
+      "equipo_local": "N Arizona",
+      "equipo_visitante": "Idaho St",
+      "favorito_predicho": "local",
+      "margen": 59.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
