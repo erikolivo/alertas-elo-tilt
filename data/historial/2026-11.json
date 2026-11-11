@@ -6943,6 +6943,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928151",
+      "liga_slug": "all",
+      "equipo_local": "Hammarby IF",
+      "equipo_visitante": "Spartak",
+      "favorito_predicho": "local",
+      "margen": 52.9,
+      "confianza_elo": 78.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928152",
+      "liga_slug": "all",
+      "equipo_local": "Malmo",
+      "equipo_visitante": "Ajax",
+      "favorito_predicho": "local",
+      "margen": 44.1,
+      "confianza_elo": 39.3,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
