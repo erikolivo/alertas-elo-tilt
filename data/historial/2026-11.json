@@ -6873,6 +6873,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931327",
+      "liga_slug": "all",
+      "equipo_local": "Hou Christian",
+      "equipo_visitante": "East Texas A&M",
+      "favorito_predicho": "local",
+      "margen": 41.5,
+      "confianza_elo": 40.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931291",
+      "liga_slug": "all",
+      "equipo_local": "Kentucky",
+      "equipo_visitante": "Arkansas",
+      "favorito_predicho": "local",
+      "margen": 45.0,
+      "confianza_elo": 42.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
