@@ -1150,8 +1150,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 2,
-      "ultimo_intento_cierre": "2026-11-10T19:50:59.944330-05:00"
+      "intentos_cierre": 3,
+      "ultimo_intento_cierre": "2026-11-10T20:21:08.168042-05:00"
     },
     "2026-11-10T18:00:00-05:00": {
       "anunciada": true,
