@@ -6831,6 +6831,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929833",
+      "liga_slug": "all",
+      "equipo_local": "Boston U",
+      "equipo_visitante": "Lehigh",
+      "favorito_predicho": "local",
+      "margen": 53.9,
+      "confianza_elo": 80.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929906",
+      "liga_slug": "all",
+      "equipo_local": "SC Upstate",
+      "equipo_visitante": "Radford",
+      "favorito_predicho": "local",
+      "margen": 48.2,
+      "confianza_elo": 75.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
