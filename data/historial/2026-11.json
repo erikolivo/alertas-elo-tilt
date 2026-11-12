@@ -7769,6 +7769,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929794",
+      "liga_slug": "all",
+      "equipo_local": "FDU",
+      "equipo_visitante": "C Connecticut",
+      "favorito_predicho": "local",
+      "margen": 63.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929760",
+      "liga_slug": "all",
+      "equipo_local": "Cornell",
+      "equipo_visitante": "Harvard",
+      "favorito_predicho": "local",
+      "margen": 71.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
