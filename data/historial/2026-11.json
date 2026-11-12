@@ -7531,6 +7531,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401927189",
+      "liga_slug": "all",
+      "equipo_local": "Guinea",
+      "equipo_visitante": "Eritrea",
+      "favorito_predicho": "local",
+      "margen": 47.2,
+      "confianza_elo": 49.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929972",
+      "liga_slug": "all",
+      "equipo_local": "FDU",
+      "equipo_visitante": "Stonehill",
+      "favorito_predicho": "local",
+      "margen": 47.6,
+      "confianza_elo": 59.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931296",
+      "liga_slug": "all",
+      "equipo_local": "Malta",
+      "equipo_visitante": "Eswatini",
+      "favorito_predicho": "local",
+      "margen": 40.8,
+      "confianza_elo": 18.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916986",
+      "liga_slug": "all",
+      "equipo_local": "Barcelona",
+      "equipo_visitante": "Arsenal",
+      "favorito_predicho": "local",
+      "margen": 63.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
