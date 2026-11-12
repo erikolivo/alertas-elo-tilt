@@ -811,10 +811,10 @@
         "401906458"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-12T04:20:46.937137-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-12T04:50:56.018171-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-12T04:50:56.018171-05:00"
     },
     "2026-11-12T02:00:00-05:00": {
       "anunciada": true,
