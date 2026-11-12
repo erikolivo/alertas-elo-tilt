@@ -7503,6 +7503,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933861",
+      "liga_slug": "all",
+      "equipo_local": "Gornik Zabrz",
+      "equipo_visitante": "Polonia",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 39.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
