@@ -7517,6 +7517,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931334",
+      "liga_slug": "all",
+      "equipo_local": "Jackson St",
+      "equipo_visitante": "Prairie View",
+      "favorito_predicho": "local",
+      "margen": 70.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
