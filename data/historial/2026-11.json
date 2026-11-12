@@ -7587,6 +7587,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928540",
+      "liga_slug": "all",
+      "equipo_local": "Osasuna",
+      "equipo_visitante": " Dux Logroño",
+      "favorito_predicho": "local",
+      "margen": 60.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929971",
+      "liga_slug": "all",
+      "equipo_local": "C Connecticut",
+      "equipo_visitante": "Wagner",
+      "favorito_predicho": "local",
+      "margen": 48.0,
+      "confianza_elo": 52.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
