@@ -8231,6 +8231,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401927191",
+      "liga_slug": "all",
+      "equipo_local": "Morocco",
+      "equipo_visitante": "Niger",
+      "favorito_predicho": "local",
+      "margen": 43.6,
+      "confianza_elo": 17.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929902",
+      "liga_slug": "all",
+      "equipo_local": "Weber St",
+      "equipo_visitante": "Idaho",
+      "favorito_predicho": "local",
+      "margen": 58.0,
+      "confianza_elo": 92.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
