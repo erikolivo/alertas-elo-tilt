@@ -7797,6 +7797,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929980",
+      "liga_slug": "all",
+      "equipo_local": "UT Martin",
+      "equipo_visitante": "SIUE",
+      "favorito_predicho": "local",
+      "margen": 41.0,
+      "confianza_elo": 26.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899695",
+      "liga_slug": "all",
+      "equipo_local": "Águila",
+      "equipo_visitante": "Limeño",
+      "favorito_predicho": "local",
+      "margen": 67.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899770",
+      "liga_slug": "all",
+      "equipo_local": "Atl Balboa",
+      "equipo_visitante": "Inca Aruba",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 80.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931328",
+      "liga_slug": "all",
+      "equipo_local": "Lamar",
+      "equipo_visitante": "Incarnate Word",
+      "favorito_predicho": "local",
+      "margen": 53.0,
+      "confianza_elo": 69.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
