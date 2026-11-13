@@ -7895,6 +7895,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401875813",
+      "liga_slug": "all",
+      "equipo_local": "Estudiantes",
+      "equipo_visitante": "Ind. Rivadavia",
+      "favorito_predicho": "local",
+      "margen": 46.9,
+      "confianza_elo": 56.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401860436",
+      "liga_slug": "all",
+      "equipo_local": "São Bernardo",
+      "equipo_visitante": "Athletic",
+      "favorito_predicho": "local",
+      "margen": 46.8,
+      "confianza_elo": 55.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929954",
+      "liga_slug": "all",
+      "equipo_local": "Niagara",
+      "equipo_visitante": "Fairfield",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 92.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
