@@ -8049,6 +8049,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861162",
+      "liga_slug": "all",
+      "equipo_local": "Moldova",
+      "equipo_visitante": "Kazakhstan",
+      "favorito_predicho": "local",
+      "margen": 54.8,
+      "confianza_elo": 86.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932567",
+      "liga_slug": "all",
+      "equipo_local": "Germany",
+      "equipo_visitante": "Belgium",
+      "favorito_predicho": "local",
+      "margen": 55.4,
+      "confianza_elo": 75.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929901",
+      "liga_slug": "all",
+      "equipo_local": "N Colorado",
+      "equipo_visitante": "N Arizona",
+      "favorito_predicho": "local",
+      "margen": 45.5,
+      "confianza_elo": 36.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
