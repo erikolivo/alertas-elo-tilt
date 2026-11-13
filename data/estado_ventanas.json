@@ -998,6 +998,16 @@
       "cerrada_en": null,
       "intentos_cierre": 0,
       "ultimo_intento_cierre": null
+    },
+    "2026-11-13T01:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-11-13T00:46:43.841823-05:00",
+      "fixture_ids": [],
+      "favoritos_alertados": [],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
     }
   }
 }
