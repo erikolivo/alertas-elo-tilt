@@ -8091,6 +8091,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888026",
+      "liga_slug": "all",
+      "equipo_local": "Nantes",
+      "equipo_visitante": "Lens",
+      "favorito_predicho": "local",
+      "margen": 53.2,
+      "confianza_elo": 78.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933056",
+      "liga_slug": "all",
+      "equipo_local": "Albania",
+      "equipo_visitante": "Luxembourg",
+      "favorito_predicho": "local",
+      "margen": 68.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933835",
+      "liga_slug": "all",
+      "equipo_local": "Spain",
+      "equipo_visitante": "Japan U21",
+      "favorito_predicho": "local",
+      "margen": 60.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
