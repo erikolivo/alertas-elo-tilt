@@ -8385,6 +8385,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861165",
+      "liga_slug": "all",
+      "equipo_local": "Norway",
+      "equipo_visitante": "Wales",
+      "favorito_predicho": "local",
+      "margen": 49.3,
+      "confianza_elo": 65.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885694",
+      "liga_slug": "all",
+      "equipo_local": "Lyonnes",
+      "equipo_visitante": "Saint-Malo",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401885695",
+      "liga_slug": "all",
+      "equipo_local": "Strasbourg",
+      "equipo_visitante": "Toulouse",
+      "favorito_predicho": "local",
+      "margen": 42.1,
+      "confianza_elo": 41.6,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883118",
+      "liga_slug": "esp.2",
+      "equipo_local": "Almería",
+      "equipo_visitante": "FC Andorra",
+      "favorito_predicho": "local",
+      "margen": 75.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883135",
+      "liga_slug": "esp.2",
+      "equipo_local": "Mallorca",
+      "equipo_visitante": "Córdoba",
+      "favorito_predicho": "local",
+      "margen": 50.7,
+      "confianza_elo": 69.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
