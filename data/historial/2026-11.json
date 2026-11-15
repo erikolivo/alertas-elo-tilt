@@ -8833,6 +8833,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932780",
+      "liga_slug": "arg.2",
+      "equipo_local": "Dep. Madryn",
+      "equipo_visitante": "Maipú",
+      "favorito_predicho": "local",
+      "margen": 44.2,
+      "confianza_elo": 41.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933119",
+      "liga_slug": "arg.3",
+      "equipo_local": "Real Pilar",
+      "equipo_visitante": "Talleres RE",
+      "favorito_predicho": "local",
+      "margen": 50.7,
+      "confianza_elo": 60.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926286",
+      "liga_slug": "arg.copa",
+      "equipo_local": "Banfield",
+      "equipo_visitante": "Boca ",
+      "favorito_predicho": "visitante",
+      "margen": 66.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929820",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Hou Christian",
+      "equipo_visitante": "E Illinois",
+      "favorito_predicho": "local",
+      "margen": 55.2,
+      "confianza_elo": 79.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929724",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Saint Louis",
+      "equipo_visitante": "Fordham",
+      "favorito_predicho": "local",
+      "margen": 54.5,
+      "confianza_elo": 80.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
