@@ -8791,6 +8791,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932761",
+      "liga_slug": "arg.2",
+      "equipo_local": "Colón SF",
+      "equipo_visitante": "Midland",
+      "favorito_predicho": "local",
+      "margen": 51.3,
+      "confianza_elo": 66.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401879607",
+      "liga_slug": "gua.1",
+      "equipo_local": "Xelajú MC",
+      "equipo_visitante": "Guastatoya",
+      "favorito_predicho": "local",
+      "margen": 63.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931283",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Wyoming",
+      "equipo_visitante": "Air Force",
+      "favorito_predicho": "local",
+      "margen": 54.6,
+      "confianza_elo": 72.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
