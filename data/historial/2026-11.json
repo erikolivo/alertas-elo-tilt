@@ -9169,6 +9169,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401861174",
+      "liga_slug": "all",
+      "equipo_local": "Finland",
+      "equipo_visitante": "San Marino",
+      "favorito_predicho": "local",
+      "margen": 79.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933837",
+      "liga_slug": "all",
+      "equipo_local": "Suriname",
+      "equipo_visitante": "Eswatini",
+      "favorito_predicho": "local",
+      "margen": 61.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401882459",
+      "liga_slug": "all",
+      "equipo_local": "Deportivo",
+      "equipo_visitante": "Barcelona",
+      "favorito_predicho": "visitante",
+      "margen": 65.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883117",
+      "liga_slug": "all",
+      "equipo_local": "Eibar",
+      "equipo_visitante": "Cádiz",
+      "favorito_predicho": "local",
+      "margen": 67.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
