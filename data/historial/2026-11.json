@@ -9057,6 +9057,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931330",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Lamar",
+      "equipo_visitante": "N'Western St",
+      "favorito_predicho": "local",
+      "margen": 60.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931349",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Old Dominion",
+      "equipo_visitante": "South Alabama",
+      "favorito_predicho": "local",
+      "margen": 58.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
