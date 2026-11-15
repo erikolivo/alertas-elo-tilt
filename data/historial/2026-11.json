@@ -9099,6 +9099,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401931905",
+      "liga_slug": "all",
+      "equipo_local": "CA La Paz",
+      "equipo_visitante": "Piratas",
+      "favorito_predicho": "local",
+      "margen": 67.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932062",
+      "liga_slug": "all",
+      "equipo_local": "Guadalajara",
+      "equipo_visitante": "Juárez",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 85.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401906463",
+      "liga_slug": "all",
+      "equipo_local": "New Zealand",
+      "equipo_visitante": "India",
+      "favorito_predicho": "local",
+      "margen": 46.7,
+      "confianza_elo": 46.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
