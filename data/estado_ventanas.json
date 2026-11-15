@@ -12,16 +12,6 @@
       "intentos_cierre": 4,
       "ultimo_intento_cierre": "2026-11-12T04:50:56.018171-05:00"
     },
-    "2026-11-12T02:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-11-12T01:45:08.239305-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-11-12T04:15:44.145743-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-11-12T04:15:44.145743-05:00"
-    },
     "2026-11-12T03:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-11-12T02:45:24.363040-05:00",
@@ -1042,10 +1032,10 @@
       "anunciada_en": "2026-11-15T01:47:13.743714-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-11-15T04:17:44.114952-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-11-15T04:17:44.114952-05:00"
     },
     "2026-11-15T03:00:00-05:00": {
       "anunciada": true,
