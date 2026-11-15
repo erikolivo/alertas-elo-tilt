@@ -8903,6 +8903,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932077",
+      "liga_slug": "all",
+      "equipo_local": "Tigres",
+      "equipo_visitante": "UNAM",
+      "favorito_predicho": "local",
+      "margen": 62.8,
+      "confianza_elo": 99.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933256",
+      "liga_slug": "uru.1",
+      "equipo_local": "Nacional",
+      "equipo_visitante": "Albion",
+      "favorito_predicho": "local",
+      "margen": 61.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929849",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Omaha",
+      "equipo_visitante": "St Thomas",
+      "favorito_predicho": "local",
+      "margen": 66.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929841",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "UNC Greensboro",
+      "equipo_visitante": "Liberty",
+      "favorito_predicho": "local",
+      "margen": 68.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931357",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Seattle U",
+      "equipo_visitante": "Santa Clara",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 36.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
