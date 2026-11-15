@@ -9435,6 +9435,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929982",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UT Martin",
+      "equipo_visitante": "S Indiana",
+      "favorito_predicho": "local",
+      "margen": 47.2,
+      "confianza_elo": 57.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
