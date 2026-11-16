@@ -9533,6 +9533,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933456",
+      "liga_slug": "all",
+      "equipo_local": "Hungary",
+      "equipo_visitante": "Cyprus",
+      "favorito_predicho": "local",
+      "margen": 62.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
