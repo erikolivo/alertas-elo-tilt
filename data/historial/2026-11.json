@@ -9491,6 +9491,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929709",
+      "liga_slug": "all",
+      "equipo_local": "Panama",
+      "equipo_visitante": "Curaçao",
+      "favorito_predicho": "local",
+      "margen": 44.3,
+      "confianza_elo": 55.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899768",
+      "liga_slug": "slv.1",
+      "equipo_local": "Inca Aruba",
+      "equipo_visitante": "Águila",
+      "favorito_predicho": "visitante",
+      "margen": 45.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932782",
+      "liga_slug": "all",
+      "equipo_local": "Ferro",
+      "equipo_visitante": "G y T (Salta)",
+      "favorito_predicho": "local",
+      "margen": 53.8,
+      "confianza_elo": 81.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
