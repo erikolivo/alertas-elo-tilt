@@ -9449,6 +9449,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879641",
+      "liga_slug": "gua.1",
+      "equipo_local": "San Pedro",
+      "equipo_visitante": "Marquense",
+      "favorito_predicho": "local",
+      "margen": 43.4,
+      "confianza_elo": 38.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401929738",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "SMU",
+      "equipo_visitante": "North Carolina",
+      "favorito_predicho": "local",
+      "margen": 49.1,
+      "confianza_elo": 66.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931294",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "South Carolina",
+      "equipo_visitante": "Texas",
+      "favorito_predicho": "local",
+      "margen": 41.9,
+      "confianza_elo": 31.1,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
