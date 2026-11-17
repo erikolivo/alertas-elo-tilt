@@ -9617,6 +9617,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929770",
+      "liga_slug": "all",
+      "equipo_local": "Canada",
+      "equipo_visitante": "Guatemala",
+      "favorito_predicho": "local",
+      "margen": 52.0,
+      "confianza_elo": 52.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
