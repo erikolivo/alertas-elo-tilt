@@ -9897,6 +9897,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916980",
+      "liga_slug": "all",
+      "equipo_local": "Chelsea ",
+      "equipo_visitante": "PSG",
+      "favorito_predicho": "local",
+      "margen": 45.0,
+      "confianza_elo": 49.1,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916979",
+      "liga_slug": "all",
+      "equipo_local": "Juventus",
+      "equipo_visitante": "OH Leuven",
+      "favorito_predicho": "local",
+      "margen": 57.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
