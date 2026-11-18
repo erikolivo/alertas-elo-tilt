@@ -9827,6 +9827,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401923287",
+      "liga_slug": "all",
+      "equipo_local": "London City",
+      "equipo_visitante": "Brighton",
+      "favorito_predicho": "local",
+      "margen": 65.4,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401923284",
+      "liga_slug": "all",
+      "equipo_local": "Man Utd",
+      "equipo_visitante": "Everton ",
+      "favorito_predicho": "local",
+      "margen": 55.0,
+      "confianza_elo": 82.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401923285",
+      "liga_slug": "all",
+      "equipo_local": "Spurs",
+      "equipo_visitante": "Leicester",
+      "favorito_predicho": "local",
+      "margen": 53.1,
+      "confianza_elo": 87.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928561",
+      "liga_slug": "all",
+      "equipo_local": "Samper",
+      "equipo_visitante": "Valencia",
+      "favorito_predicho": "local",
+      "margen": 58.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928690",
+      "liga_slug": "all",
+      "equipo_local": "Lye Town",
+      "equipo_visitante": "Peterborough",
+      "favorito_predicho": "local",
+      "margen": 58.0,
+      "confianza_elo": 76.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
