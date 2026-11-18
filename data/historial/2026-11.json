@@ -9771,6 +9771,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401929766",
+      "liga_slug": "all",
+      "equipo_local": "USA",
+      "equipo_visitante": "Haiti",
+      "favorito_predicho": "local",
+      "margen": 49.2,
+      "confianza_elo": 34.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
