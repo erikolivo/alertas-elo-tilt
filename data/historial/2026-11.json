@@ -9729,6 +9729,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401930895",
+      "liga_slug": "all",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Costa Rica",
+      "favorito_predicho": "local",
+      "margen": 59.6,
+      "confianza_elo": 86.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932215",
+      "liga_slug": "all",
+      "equipo_local": "Uruguay",
+      "equipo_visitante": "Dominican Rep",
+      "favorito_predicho": "local",
+      "margen": 57.8,
+      "confianza_elo": 87.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933183",
+      "liga_slug": "all",
+      "equipo_local": "Atl. Nacional",
+      "equipo_visitante": "Once Caldas",
+      "favorito_predicho": "local",
+      "margen": 42.5,
+      "confianza_elo": 40.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
