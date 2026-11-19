@@ -9967,6 +9967,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401873511",
+      "liga_slug": "all",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Australia ",
+      "favorito_predicho": "local",
+      "margen": 48.9,
+      "confianza_elo": 63.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
