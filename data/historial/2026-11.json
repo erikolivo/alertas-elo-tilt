@@ -9981,6 +9981,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401928541",
+      "liga_slug": "all",
+      "equipo_local": "Argual",
+      "equipo_visitante": "Madrid CFF",
+      "favorito_predicho": "local",
+      "margen": 53.3,
+      "confianza_elo": 74.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401928542",
+      "liga_slug": "all",
+      "equipo_local": "Celta Vigo",
+      "equipo_visitante": "Espanyol",
+      "favorito_predicho": "local",
+      "margen": 40.0,
+      "confianza_elo": 33.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
