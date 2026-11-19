@@ -10023,6 +10023,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401916976",
+      "liga_slug": "all",
+      "equipo_local": "Arsenal",
+      "equipo_visitante": "Lyonnes",
+      "favorito_predicho": "visitante",
+      "margen": 41.7,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916975",
+      "liga_slug": "all",
+      "equipo_local": "Barcelona",
+      "equipo_visitante": "Servette",
+      "favorito_predicho": "local",
+      "margen": 75.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401916974",
+      "liga_slug": "all",
+      "equipo_local": "Benfica",
+      "equipo_visitante": "Roma",
+      "favorito_predicho": "local",
+      "margen": 40.2,
+      "confianza_elo": 38.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
