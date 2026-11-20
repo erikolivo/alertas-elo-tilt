@@ -10429,6 +10429,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401882805",
+      "liga_slug": "all",
+      "equipo_local": "Athletic",
+      "equipo_visitante": "Espanyol",
+      "favorito_predicho": "local",
+      "margen": 57.0,
+      "confianza_elo": 89.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932638",
+      "liga_slug": "all",
+      "equipo_local": "Virginia",
+      "equipo_visitante": "Bryant",
+      "favorito_predicho": "local",
+      "margen": 71.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
