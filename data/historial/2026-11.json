@@ -10261,6 +10261,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401874492",
+      "liga_slug": "all",
+      "equipo_local": "AGF",
+      "equipo_visitante": "Lyngby",
+      "favorito_predicho": "local",
+      "margen": 53.7,
+      "confianza_elo": 70.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
