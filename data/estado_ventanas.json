@@ -1,15 +1,5 @@
 {
   "ventanas": {
-    "2026-11-16T23:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-11-16T22:45:33.136344-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-11-17T01:15:59.381863-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-11-17T01:15:59.381863-05:00"
-    },
     "2026-11-17T00:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-11-16T23:45:43.573335-05:00",
