@@ -10527,6 +10527,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932642",
+      "liga_slug": "all",
+      "equipo_local": "Texas Tech",
+      "equipo_visitante": "Abilene Chrstn",
+      "favorito_predicho": "local",
+      "margen": 68.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932647",
+      "liga_slug": "all",
+      "equipo_local": "Vanderbilt",
+      "equipo_visitante": "UT Martin",
+      "favorito_predicho": "local",
+      "margen": 77.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932653",
+      "liga_slug": "all",
+      "equipo_local": "Kentucky",
+      "equipo_visitante": "Virginia Tech",
+      "favorito_predicho": "local",
+      "margen": 49.8,
+      "confianza_elo": 61.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
