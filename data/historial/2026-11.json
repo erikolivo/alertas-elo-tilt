@@ -10457,6 +10457,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401850692",
+      "liga_slug": "all",
+      "equipo_local": "Cobresal",
+      "equipo_visitante": "Audax Italiano",
+      "favorito_predicho": "local",
+      "margen": 49.5,
+      "confianza_elo": 60.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
