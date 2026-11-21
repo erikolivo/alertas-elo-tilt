@@ -10625,6 +10625,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877053",
+      "liga_slug": "all",
+      "equipo_local": "Juárez",
+      "equipo_visitante": "Atlas",
+      "favorito_predicho": "local",
+      "margen": 49.5,
+      "confianza_elo": 75.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877052",
+      "liga_slug": "all",
+      "equipo_local": "Tijuana",
+      "equipo_visitante": "Atlante",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 81.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
