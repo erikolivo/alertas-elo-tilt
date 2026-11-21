@@ -10485,6 +10485,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933760",
+      "liga_slug": "all",
+      "equipo_local": "Vélez ",
+      "equipo_visitante": "Belgrano ",
+      "favorito_predicho": "local",
+      "margen": 47.3,
+      "confianza_elo": 53.2,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932646",
+      "liga_slug": "all",
+      "equipo_local": "Ohio State",
+      "equipo_visitante": "Lipscomb",
+      "favorito_predicho": "local",
+      "margen": 72.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932650",
+      "liga_slug": "all",
+      "equipo_local": "South Carolina",
+      "equipo_visitante": "UAB",
+      "favorito_predicho": "local",
+      "margen": 64.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
