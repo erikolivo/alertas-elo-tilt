@@ -10597,6 +10597,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932651",
+      "liga_slug": "all",
+      "equipo_local": "Colorado",
+      "equipo_visitante": "Air Force",
+      "favorito_predicho": "local",
+      "margen": 41.7,
+      "confianza_elo": 18.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932633",
+      "liga_slug": "all",
+      "equipo_local": "Stanford",
+      "equipo_visitante": "Santa Clara",
+      "favorito_predicho": "local",
+      "margen": 55.1,
+      "confianza_elo": 98.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
