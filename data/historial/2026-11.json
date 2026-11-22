@@ -11157,6 +11157,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841325",
+      "liga_slug": "bra.1",
+      "equipo_local": "Chapecoense",
+      "equipo_visitante": "Cruzeiro",
+      "favorito_predicho": "visitante",
+      "margen": 63.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
