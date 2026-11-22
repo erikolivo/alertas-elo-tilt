@@ -955,10 +955,10 @@
         "401882801",
         "401878941"
       ],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-22T15:26:18.505232-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-22T15:56:30.059145-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-22T15:56:30.059145-05:00"
     },
     "2026-11-22T13:00:00-05:00": {
       "anunciada": true,
