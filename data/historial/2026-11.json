@@ -11395,6 +11395,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401883111",
+      "liga_slug": "all",
+      "equipo_local": "Burgos",
+      "equipo_visitante": "Albacete",
+      "favorito_predicho": "local",
+      "margen": 47.4,
+      "confianza_elo": 65.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401886120",
+      "liga_slug": "per.1",
+      "equipo_local": "Sporting Cristal",
+      "equipo_visitante": "Cienciano",
+      "favorito_predicho": "local",
+      "margen": 60.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932591",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Wisconsin",
+      "equipo_visitante": "Charlotte",
+      "favorito_predicho": "local",
+      "margen": 50.3,
+      "confianza_elo": 70.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401931822",
+      "liga_slug": "all",
+      "equipo_local": "Torreense",
+      "equipo_visitante": "Benfica",
+      "favorito_predicho": "visitante",
+      "margen": 42.3,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
