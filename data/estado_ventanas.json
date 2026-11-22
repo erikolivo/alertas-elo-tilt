@@ -15,16 +15,6 @@
       "intentos_cierre": 4,
       "ultimo_intento_cierre": "2026-11-18T22:49:56.617077-05:00"
     },
-    "2026-11-18T20:00:00-05:00": {
-      "anunciada": true,
-      "anunciada_en": "2026-11-18T19:45:57.654131-05:00",
-      "fixture_ids": [],
-      "favoritos_alertados": [],
-      "cerrada": true,
-      "cerrada_en": "2026-11-18T22:19:52.479740-05:00",
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-11-18T22:19:52.479740-05:00"
-    },
     "2026-11-18T21:00:00-05:00": {
       "anunciada": true,
       "anunciada_en": "2026-11-18T20:49:31.422273-05:00",
