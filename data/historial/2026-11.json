@@ -11297,6 +11297,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401882448",
+      "liga_slug": "all",
+      "equipo_local": "Barcelona",
+      "equipo_visitante": "Athletic ",
+      "favorito_predicho": "local",
+      "margen": 64.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932600",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Akron",
+      "equipo_visitante": "Wake Forest",
+      "favorito_predicho": "local",
+      "margen": 66.3,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932604",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Maryland",
+      "equipo_visitante": "NC State",
+      "favorito_predicho": "local",
+      "margen": 45.2,
+      "confianza_elo": 47.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401878934",
+      "liga_slug": "all",
+      "equipo_local": "Lommel SK",
+      "equipo_visitante": "Standard Liege",
+      "favorito_predicho": "local",
+      "margen": 54.0,
+      "confianza_elo": 74.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
