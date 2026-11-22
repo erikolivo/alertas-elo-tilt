@@ -11353,6 +11353,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933759",
+      "liga_slug": "arg.1",
+      "equipo_local": "Rosario Central",
+      "equipo_visitante": "Gimnasia (M)",
+      "favorito_predicho": "local",
+      "margen": 61.7,
+      "confianza_elo": 97.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401875001",
+      "liga_slug": "all",
+      "equipo_local": "Atalanta",
+      "equipo_visitante": "Inter Milan",
+      "favorito_predicho": "visitante",
+      "margen": 44.6,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876400",
+      "liga_slug": "all",
+      "equipo_local": "Marseille",
+      "equipo_visitante": "Le Mans",
+      "favorito_predicho": "local",
+      "margen": 66.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
