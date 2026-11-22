@@ -11087,6 +11087,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932631",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "North Carolina",
+      "equipo_visitante": "UNC Asheville",
+      "favorito_predicho": "local",
+      "margen": 72.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932639",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Wake Forest",
+      "equipo_visitante": "Boston U",
+      "favorito_predicho": "local",
+      "margen": 69.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926708",
+      "liga_slug": "hon.1",
+      "equipo_local": "Estrella Roja",
+      "equipo_visitante": "UPNFM",
+      "favorito_predicho": "local",
+      "margen": 42.2,
+      "confianza_elo": 43.7,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401876816",
+      "liga_slug": "crc.1",
+      "equipo_local": "Puntarenas",
+      "equipo_visitante": "Herediano",
+      "favorito_predicho": "local",
+      "margen": 45.2,
+      "confianza_elo": 58.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932661",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "Xavier",
+      "equipo_visitante": "Oklahoma",
+      "favorito_predicho": "local",
+      "margen": 62.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
