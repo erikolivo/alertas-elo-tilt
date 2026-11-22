@@ -970,8 +970,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-11-22T14:26:07.125649-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-11-22T14:56:13.208257-05:00"
     },
     "2026-11-22T13:00:00-05:00": {
       "anunciada": true,
