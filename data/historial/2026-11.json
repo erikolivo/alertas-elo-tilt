@@ -11185,6 +11185,34 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401877048",
+      "liga_slug": "all",
+      "equipo_local": "Tigres",
+      "equipo_visitante": "América",
+      "favorito_predicho": "visitante",
+      "margen": 47.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932660",
+      "liga_slug": "usa.ncaa.w.1",
+      "equipo_local": "UCLA",
+      "equipo_visitante": "Quinnipiac",
+      "favorito_predicho": "local",
+      "margen": 43.8,
+      "confianza_elo": 48.8,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
