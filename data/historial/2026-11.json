@@ -11017,6 +11017,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401879612",
+      "liga_slug": "gua.1",
+      "equipo_local": "Deportivo",
+      "equipo_visitante": "Malacateco",
+      "favorito_predicho": "local",
+      "margen": 63.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899692",
+      "liga_slug": "slv.1",
+      "equipo_local": "Águila",
+      "equipo_visitante": "Platense ",
+      "favorito_predicho": "local",
+      "margen": 58.1,
+      "confianza_elo": 75.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401899767",
+      "liga_slug": "slv.1",
+      "equipo_local": "Fuerte SF",
+      "equipo_visitante": "Inca Aruba",
+      "favorito_predicho": "local",
+      "margen": 45.6,
+      "confianza_elo": 41.4,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401930989",
+      "liga_slug": "ven.1",
+      "equipo_local": "Carabobo",
+      "equipo_visitante": "Portuguesa",
+      "favorito_predicho": "local",
+      "margen": 51.8,
+      "confianza_elo": 69.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401930995",
+      "liga_slug": "ven.1",
+      "equipo_local": "Táchira",
+      "equipo_visitante": "Caracas",
+      "favorito_predicho": "local",
+      "margen": 64.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
