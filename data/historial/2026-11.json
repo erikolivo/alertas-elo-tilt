@@ -11745,6 +11745,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401882449",
+      "liga_slug": "all",
+      "equipo_local": "Espanyol",
+      "equipo_visitante": "Valencia",
+      "favorito_predicho": "local",
+      "margen": 53.5,
+      "confianza_elo": 91.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401883110",
+      "liga_slug": "all",
+      "equipo_local": "Ceuta",
+      "equipo_visitante": "Almería",
+      "favorito_predicho": "visitante",
+      "margen": 67.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401934684",
+      "liga_slug": "all",
+      "equipo_local": "Juventud",
+      "equipo_visitante": "Defensor",
+      "favorito_predicho": "local",
+      "margen": 45.5,
+      "confianza_elo": 57.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
