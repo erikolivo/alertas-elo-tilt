@@ -11689,6 +11689,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401912602",
+      "liga_slug": "all",
+      "equipo_local": "Al Ain",
+      "equipo_visitante": "Esteghlal FC",
+      "favorito_predicho": "local",
+      "margen": 50.1,
+      "confianza_elo": 66.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
