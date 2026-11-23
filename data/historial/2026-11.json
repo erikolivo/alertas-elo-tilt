@@ -11535,6 +11535,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933761",
+      "liga_slug": "arg.1",
+      "equipo_local": "River Plate",
+      "equipo_visitante": "Lanús ",
+      "favorito_predicho": "local",
+      "margen": 52.3,
+      "confianza_elo": 79.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932593",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Georgetown",
+      "equipo_visitante": "Syracuse",
+      "favorito_predicho": "local",
+      "margen": 72.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932605",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "North Carolina",
+      "equipo_visitante": "UNC Wilmington",
+      "favorito_predicho": "local",
+      "margen": 43.7,
+      "confianza_elo": 46.4,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932596",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Pittsburgh",
+      "equipo_visitante": "Grand Canyon",
+      "favorito_predicho": "local",
+      "margen": 46.5,
+      "confianza_elo": 84.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
