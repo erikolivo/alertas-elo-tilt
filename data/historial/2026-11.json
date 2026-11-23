@@ -11591,6 +11591,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932597",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Clemson",
+      "equipo_visitante": "Vermont",
+      "favorito_predicho": "local",
+      "margen": 59.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932603",
+      "liga_slug": "usa.ncaa.m.1",
+      "equipo_local": "Louisville",
+      "equipo_visitante": "Oregon State",
+      "favorito_predicho": "local",
+      "margen": 64.6,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401877047",
+      "liga_slug": "all",
+      "equipo_local": "Guadalajara",
+      "equipo_visitante": "Cruz Azul",
+      "favorito_predicho": "local",
+      "margen": 53.8,
+      "confianza_elo": 85.6,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
