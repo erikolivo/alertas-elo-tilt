@@ -11633,6 +11633,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933762",
+      "liga_slug": "arg.1",
+      "equipo_local": "Instituto",
+      "equipo_visitante": "Huracán ",
+      "favorito_predicho": "local",
+      "margen": 73.2,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401933729",
+      "liga_slug": "all",
+      "equipo_local": "Vancouver",
+      "equipo_visitante": "Salt Lake",
+      "favorito_predicho": "local",
+      "margen": 58.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401926723",
+      "liga_slug": "hon.1",
+      "equipo_local": "Juticalpa",
+      "equipo_visitante": "Olancho FC",
+      "favorito_predicho": "visitante",
+      "margen": 44.0,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
