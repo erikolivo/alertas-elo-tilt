@@ -11857,6 +11857,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401912587",
+      "liga_slug": "all",
+      "equipo_local": "Kyoto Sanga",
+      "equipo_visitante": "Pohang Steelers",
+      "favorito_predicho": "local",
+      "margen": 64.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
