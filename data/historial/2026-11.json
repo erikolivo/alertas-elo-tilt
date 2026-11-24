@@ -11815,6 +11815,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401888562",
+      "liga_slug": "all",
+      "equipo_local": "Nacional",
+      "equipo_visitante": "Cerro Porteño",
+      "favorito_predicho": "local",
+      "margen": 40.3,
+      "confianza_elo": 42.5,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
