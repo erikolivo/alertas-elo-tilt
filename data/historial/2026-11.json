@@ -11871,6 +11871,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401912586",
+      "liga_slug": "all",
+      "equipo_local": "Shanghai Port",
+      "equipo_visitante": "Buriram",
+      "favorito_predicho": "local",
+      "margen": 56.3,
+      "confianza_elo": 92.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401873551",
+      "liga_slug": "all",
+      "equipo_local": "Venezuela",
+      "equipo_visitante": "Romania",
+      "favorito_predicho": "local",
+      "margen": 44.1,
+      "confianza_elo": 17.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401873550",
+      "liga_slug": "all",
+      "equipo_local": "Japan",
+      "equipo_visitante": "Serbia",
+      "favorito_predicho": "local",
+      "margen": 62.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
