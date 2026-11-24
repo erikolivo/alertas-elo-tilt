@@ -978,8 +978,8 @@
       ],
       "cerrada": false,
       "cerrada_en": null,
-      "intentos_cierre": 1,
-      "ultimo_intento_cierre": "2026-11-23T19:16:29.456916-05:00"
+      "intentos_cierre": 2,
+      "ultimo_intento_cierre": "2026-11-23T19:46:37.670818-05:00"
     },
     "2026-11-23T18:00:00-05:00": {
       "anunciada": true,
@@ -1002,6 +1002,20 @@
       ],
       "favoritos_alertados": [
         "401841320"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
+    },
+    "2026-11-23T20:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-11-23T19:46:37.670818-05:00",
+      "fixture_ids": [
+        "401933728"
+      ],
+      "favoritos_alertados": [
+        "401933728"
       ],
       "cerrada": false,
       "cerrada_en": null,
