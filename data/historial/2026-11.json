@@ -12095,6 +12095,62 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401899534",
+      "liga_slug": "all",
+      "equipo_local": "Mantova",
+      "equipo_visitante": "Arezzo",
+      "favorito_predicho": "local",
+      "margen": 51.0,
+      "confianza_elo": 73.7,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889182",
+      "liga_slug": "all",
+      "equipo_local": "Boreham Wood",
+      "equipo_visitante": "Aldershot",
+      "favorito_predicho": "local",
+      "margen": 73.5,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880139",
+      "liga_slug": "all",
+      "equipo_local": "Burnley",
+      "equipo_visitante": "Birmingham",
+      "favorito_predicho": "visitante",
+      "margen": 42.1,
+      "confianza_elo": 100.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401889181",
+      "liga_slug": "all",
+      "equipo_local": "Harrogate",
+      "equipo_visitante": "Kid'minster",
+      "favorito_predicho": "local",
+      "margen": 40.1,
+      "confianza_elo": 31.0,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
