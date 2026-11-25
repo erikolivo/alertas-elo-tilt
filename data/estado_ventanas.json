@@ -858,10 +858,10 @@
         "401841335"
       ],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 3,
-      "ultimo_intento_cierre": "2026-11-24T19:20:20.534810-05:00"
+      "cerrada": true,
+      "cerrada_en": "2026-11-24T19:50:28.464652-05:00",
+      "intentos_cierre": 4,
+      "ultimo_intento_cierre": "2026-11-24T19:50:28.464652-05:00"
     },
     "2026-11-24T17:00:00-05:00": {
       "anunciada": true,
