@@ -12151,6 +12151,76 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401915376",
+      "liga_slug": "all",
+      "equipo_local": "Inter Milan",
+      "equipo_visitante": "Stuttgart",
+      "favorito_predicho": "local",
+      "margen": 51.7,
+      "confianza_elo": 69.3,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915377",
+      "liga_slug": "all",
+      "equipo_local": "Lille",
+      "equipo_visitante": "Bayern",
+      "favorito_predicho": "visitante",
+      "margen": 51.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915374",
+      "liga_slug": "all",
+      "equipo_local": "PSG",
+      "equipo_visitante": "AS Roma",
+      "favorito_predicho": "local",
+      "margen": 44.9,
+      "confianza_elo": 45.2,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401915373",
+      "liga_slug": "all",
+      "equipo_local": "Sporting",
+      "equipo_visitante": "Man Utd",
+      "favorito_predicho": "local",
+      "margen": 66.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401880138",
+      "liga_slug": "all",
+      "equipo_local": "Stoke",
+      "equipo_visitante": "Millwall",
+      "favorito_predicho": "local",
+      "margen": 67.9,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
