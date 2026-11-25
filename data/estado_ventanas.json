@@ -870,6 +870,30 @@
       "cerrada_en": null,
       "intentos_cierre": 0,
       "ultimo_intento_cierre": null
+    },
+    "2026-11-25T14:00:00-05:00": {
+      "anunciada": true,
+      "anunciada_en": "2026-11-25T13:45:25.591008-05:00",
+      "fixture_ids": [
+        "401899534",
+        "401899533",
+        "401899531",
+        "401906325",
+        "401889182",
+        "401880140",
+        "401880139",
+        "401880137",
+        "401889181",
+        "401889180"
+      ],
+      "favoritos_alertados": [
+        "401899534",
+        "401889182"
+      ],
+      "cerrada": false,
+      "cerrada_en": null,
+      "intentos_cierre": 0,
+      "ultimo_intento_cierre": null
     }
   }
 }
