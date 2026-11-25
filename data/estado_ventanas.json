@@ -807,10 +807,10 @@
       "anunciada_en": "2026-11-25T03:48:58.946520-05:00",
       "fixture_ids": [],
       "favoritos_alertados": [],
-      "cerrada": false,
-      "cerrada_en": null,
-      "intentos_cierre": 0,
-      "ultimo_intento_cierre": null
+      "cerrada": true,
+      "cerrada_en": "2026-11-25T06:19:25.167430-05:00",
+      "intentos_cierre": 1,
+      "ultimo_intento_cierre": "2026-11-25T06:19:25.167430-05:00"
     },
     "2026-11-25T05:00:00-05:00": {
       "anunciada": true,
