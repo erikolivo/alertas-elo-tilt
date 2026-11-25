@@ -12053,6 +12053,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401915378",
+      "liga_slug": "all",
+      "equipo_local": "Sabah",
+      "equipo_visitante": "Barcelona",
+      "favorito_predicho": "visitante",
+      "margen": 61.8,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
