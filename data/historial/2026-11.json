@@ -12011,6 +12011,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401934688",
+      "liga_slug": "all",
+      "equipo_local": "Millonarios",
+      "equipo_visitante": "Bucaramanga",
+      "favorito_predicho": "local",
+      "margen": 51.0,
+      "confianza_elo": 68.5,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
