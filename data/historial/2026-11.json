@@ -12235,6 +12235,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933757",
+      "liga_slug": "all",
+      "equipo_local": "Boca ",
+      "equipo_visitante": "Ind. Rivadavia",
+      "favorito_predicho": "local",
+      "margen": 77.1,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
