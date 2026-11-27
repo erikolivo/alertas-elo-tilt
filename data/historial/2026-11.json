@@ -12403,6 +12403,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401841329",
+      "liga_slug": "all",
+      "equipo_local": "São Paulo",
+      "equipo_visitante": "Remo",
+      "favorito_predicho": "local",
+      "margen": 55.6,
+      "confianza_elo": 83.9,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
