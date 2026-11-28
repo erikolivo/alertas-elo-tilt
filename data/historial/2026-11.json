@@ -12795,6 +12795,48 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933727",
+      "liga_slug": "all",
+      "equipo_local": "Columbus",
+      "equipo_visitante": "Miami",
+      "favorito_predicho": "local",
+      "margen": 60.1,
+      "confianza_elo": 95.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401932668",
+      "liga_slug": "all",
+      "equipo_local": "Baylor",
+      "equipo_visitante": "Virginia Tech",
+      "favorito_predicho": "local",
+      "margen": 68.0,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
+    },
+    {
+      "fixture_id": "401870040",
+      "liga_slug": "all",
+      "equipo_local": "USA",
+      "equipo_visitante": "El Salvador",
+      "favorito_predicho": "local",
+      "margen": 61.7,
+      "confianza_elo": 100.0,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
