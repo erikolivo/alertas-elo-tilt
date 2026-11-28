@@ -12599,6 +12599,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401932236",
+      "liga_slug": "all",
+      "equipo_local": "Peru",
+      "equipo_visitante": "Dom Republic",
+      "favorito_predicho": "local",
+      "margen": 43.3,
+      "confianza_elo": 53.9,
+      "enviada": false,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
