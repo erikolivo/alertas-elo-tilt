@@ -12781,6 +12781,20 @@
       "resultado": null,
       "goles": null,
       "acierto": null
+    },
+    {
+      "fixture_id": "401933198",
+      "liga_slug": "all",
+      "equipo_local": "T. Suárez",
+      "equipo_visitante": "G y T (Salta)",
+      "favorito_predicho": "local",
+      "margen": 54.8,
+      "confianza_elo": 83.8,
+      "enviada": true,
+      "resultado_categoria": "pendiente",
+      "resultado": null,
+      "goles": null,
+      "acierto": null
     }
   ]
 }
